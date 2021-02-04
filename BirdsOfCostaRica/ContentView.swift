@@ -62,8 +62,8 @@ extension BirdGroup.Bird {
 extension BirdGroup.Bird {
     var images: [String]? {
         guard let files = details?.imageFiles else { return nil }
-        return imageInfo.filter { files.contains($0.filename) } .map { meta in
-            meta.info.thumburl
+        return imageInfo.filter { files.contains($0.filename) } .collectFirst(3).compactMap { meta in
+            meta.info.responsiveUrls?.values.first
         }
     }
 }
@@ -126,7 +126,7 @@ struct ContentView: View {
                         if !group.images.isEmpty {
                             ScrollView(.horizontal, showsIndicators: false, content: {
                                 HStack {
-                                    ForEach(group.images, id: \.filehref) { file  in
+                                    ForEach(group.images, id: \.filename) { file  in
                                         AsyncImage(imageUrl: file.imageUrl).frame(height: 88)
                                     }
                                 }
@@ -147,54 +147,18 @@ struct ContentView: View {
 import WebKit
 import SwiftUI
 
-struct HTMLStringView: UIViewRepresentable {
-    let htmlContent: String
-
-    func makeUIView(context: Context) -> WKWebView {
-        return WKWebView()
-    }
-
-    func updateUIView(_ uiView: WKWebView, context: Context) {
-        uiView.loadHTMLString(htmlContent, baseURL: nil)
-    }
-}
-
-
-struct LabelView: UIViewRepresentable {
-    let html: String
-//    let attributed: NSAttributedString
-//    init(html: String) {
-//        self.html = html
-//        DispatchQueue.main.async {
-//        self.attributed = try! NSAttributedString(data: html.data,
-//                                                  options: [
-//                                                    .documentType: NSAttributedString.DocumentType.html
-//                                                  ],
-//                                                  documentAttributes: nil)
-//
-//        }
-//    }
-
-    func makeUIView(context: Context) -> UILabel {
-        return UILabel()
-    }
-
-    func updateUIView(_ uiView: UILabel, context: Context) {
-        DispatchQueue.main.async {
-            uiView.text = try! NSAttributedString(data: html.data,
-                                                            options: [
-                                                                .documentType: NSAttributedString.DocumentType.html
-                                                            ],
-                                                            documentAttributes: nil).string
-
-        }
-    }
-}
-
 
 extension BirdGroup.File {
     var imageUrl: String {
-        "https:" + img.src
+        birdGroupsImageInfo.first { $0.filename == filename } .flatMap { img in
+            img.info.responsiveUrls?.values.first
+        }!
+
+//        guard let files = details?.imageFiles else { return nil }
+//        return imageInfo.filter { files.contains($0.filename) } .collectFirst(3).compactMap { meta in
+//            meta.info.responsiveUrls?.values.first
+//        }
+//        "https:" + img.src
     }
 }
 

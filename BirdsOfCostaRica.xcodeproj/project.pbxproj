@@ -13,7 +13,6 @@
 		8067F19F25CBE0FA00F0211E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8067F19E25CBE0FA00F0211E /* Preview Assets.xcassets */; };
 		8067F1AA25CBE0FA00F0211E /* BirdsOfCostaRicaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8067F1A925CBE0FA00F0211E /* BirdsOfCostaRicaTests.swift */; };
 		8067F1B525CBE0FA00F0211E /* BirdsOfCostaRicaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8067F1B425CBE0FA00F0211E /* BirdsOfCostaRicaUITests.swift */; };
-		8067F1C625CBE12400F0211E /* bird-groups.json in Resources */ = {isa = PBXBuildFile; fileRef = 8067F1C525CBE12400F0211E /* bird-groups.json */; };
 		8067F1CC25CBE14000F0211E /* bird-details.json in Resources */ = {isa = PBXBuildFile; fileRef = 8067F1CA25CBE14000F0211E /* bird-details.json */; };
 		8067F1CD25CBE14000F0211E /* image-meta.json in Resources */ = {isa = PBXBuildFile; fileRef = 8067F1CB25CBE14000F0211E /* image-meta.json */; };
 		8067F1D225CBE16D00F0211E /* BirdGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8067F1D125CBE16D00F0211E /* BirdGroups.swift */; };
@@ -22,6 +21,8 @@
 		8067F1E925CBE1D300F0211E /* Commons in Frameworks */ = {isa = PBXBuildFile; productRef = 8067F1E825CBE1D300F0211E /* Commons */; };
 		8067F1EE25CBE1DF00F0211E /* ModelLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8067F1ED25CBE1DF00F0211E /* ModelLoader.swift */; };
 		8067F1F725CBE3DD00F0211E /* Endpoints in Frameworks */ = {isa = PBXBuildFile; productRef = 8067F1F625CBE3DD00F0211E /* Endpoints */; };
+		8067F21525CC37A800F0211E /* bird-groups.json in Resources */ = {isa = PBXBuildFile; fileRef = 8067F21325CC37A800F0211E /* bird-groups.json */; };
+		8067F21625CC37A800F0211E /* bird-groups-image-meta.json in Resources */ = {isa = PBXBuildFile; fileRef = 8067F21425CC37A800F0211E /* bird-groups-image-meta.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,13 +55,14 @@
 		8067F1B025CBE0FA00F0211E /* BirdsOfCostaRicaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BirdsOfCostaRicaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8067F1B425CBE0FA00F0211E /* BirdsOfCostaRicaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdsOfCostaRicaUITests.swift; sourceTree = "<group>"; };
 		8067F1B625CBE0FA00F0211E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8067F1C525CBE12400F0211E /* bird-groups.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "bird-groups.json"; sourceTree = "<group>"; };
 		8067F1CA25CBE14000F0211E /* bird-details.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "bird-details.json"; sourceTree = "<group>"; };
 		8067F1CB25CBE14000F0211E /* image-meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "image-meta.json"; sourceTree = "<group>"; };
 		8067F1D125CBE16D00F0211E /* BirdGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdGroups.swift; sourceTree = "<group>"; };
 		8067F1DA25CBE18900F0211E /* BirdDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdDetails.swift; sourceTree = "<group>"; };
 		8067F1E225CBE19D00F0211E /* BirdImageMeta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdImageMeta.swift; sourceTree = "<group>"; };
 		8067F1ED25CBE1DF00F0211E /* ModelLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelLoader.swift; sourceTree = "<group>"; };
+		8067F21325CC37A800F0211E /* bird-groups.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "bird-groups.json"; sourceTree = "<group>"; };
+		8067F21425CC37A800F0211E /* bird-groups-image-meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "bird-groups-image-meta.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +97,8 @@
 			children = (
 				8067F1CA25CBE14000F0211E /* bird-details.json */,
 				8067F1CB25CBE14000F0211E /* image-meta.json */,
-				8067F1C525CBE12400F0211E /* bird-groups.json */,
+				8067F21425CC37A800F0211E /* bird-groups-image-meta.json */,
+				8067F21325CC37A800F0211E /* bird-groups.json */,
 				8067F19625CBE0F800F0211E /* BirdsOfCostaRica */,
 				8067F1A825CBE0FA00F0211E /* BirdsOfCostaRicaTests */,
 				8067F1B325CBE0FA00F0211E /* BirdsOfCostaRicaUITests */,
@@ -281,9 +284,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8067F1C625CBE12400F0211E /* bird-groups.json in Resources */,
 				8067F19F25CBE0FA00F0211E /* Preview Assets.xcassets in Resources */,
 				8067F1CC25CBE14000F0211E /* bird-details.json in Resources */,
+				8067F21625CC37A800F0211E /* bird-groups-image-meta.json in Resources */,
+				8067F21525CC37A800F0211E /* bird-groups.json in Resources */,
 				8067F1CD25CBE14000F0211E /* image-meta.json in Resources */,
 				8067F19C25CBE0FA00F0211E /* Assets.xcassets in Resources */,
 			);

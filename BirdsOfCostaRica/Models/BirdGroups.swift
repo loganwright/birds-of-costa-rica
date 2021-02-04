@@ -56,19 +56,16 @@ struct BirdGroup: Codable {
             let dataFileHeight: String
         }
 
-        let filehref: String
+        let filename: String
         let title: String
-        let img: Image
-
-        var filename: String {
-            filehref.components(separatedBy: ":").last!
-        }
+//        let img: Image
     }
 
     let category: String
     let order: Order
     let family: Family
     let summary: String
+    let summaryHTML: String
     let images: [File]
     let birds: [Bird]
 }

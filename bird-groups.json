@@ -1,24 +1,12 @@
 [
   {
-    "summary" : "<p>The tinamous are one of the most ancient groups of birds. Although they look similar to other ground-dwelling birds like quail and grouse, they have no close relatives and are classified as a single family, Tinamidae, within their own order, the Tinamiformes. They are distantly related to the <a href=\"\/wiki\/Ratites\" class=\"mw-redirect\" title=\"Ratites\">ratites<\/a> (order <a href=\"\/wiki\/Struthioniformes\" class=\"mw-redirect\" title=\"Struthioniformes\">Struthioniformes<\/a>) which includes the <a href=\"\/wiki\/Rhea_(bird)\" title=\"Rhea (bird)\">rheas<\/a>, <a href=\"\/wiki\/Emu\" title=\"Emu\">emu<\/a>, and <a href=\"\/wiki\/Kiwi_(bird)\" title=\"Kiwi (bird)\">kiwis<\/a>. <\/p>",
+    "summary" : "The tinamous are one of the most ancient groups of birds. Although they look similar to other ground-dwelling birds like quail and grouse, they have no close relatives and are classified as a single family, Tinamidae, within their own order, the Tinamiformes. They are distantly related to the ratites (order Struthioniformes) which includes the rheas, emu, and kiwis.",
     "images" : [
       {
         "title" : "Great tinamou",
-        "img" : {
-          "height" : "425",
-          "dataFileWidth" : "333",
-          "dataFileHeight" : "425",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/21\/Tinamus_major.JPG\/300px-Tinamus_major.JPG 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/2\/21\/Tinamus_major.JPG 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/21\/Tinamus_major.JPG\/200px-Tinamus_major.JPG",
-          "width" : "333"
-        },
-        "filehref" : "\/wiki\/File:Tinamus_major.JPG"
+        "filename" : "File:Tinamus_major.JPG"
       }
     ],
-    "order" : {
-      "name" : "Tinamiformes",
-      "link" : "\/wiki\/Tinamiformes"
-    },
     "birds" : [
       {
         "name" : "Highland tinamou",
@@ -46,32 +34,25 @@
         "latin" : "Crypturellus boucardi"
       }
     ],
+    "order" : {
+      "name" : "Tinamiformes",
+      "link" : "\/wiki\/Tinamiformes"
+    },
     "category" : "Tinamous",
     "family" : {
       "name" : "Tinamidae",
       "link" : "\/wiki\/Tinamidae"
-    }
+    },
+    "summaryHTML" : "<p>The tinamous are one of the most ancient groups of birds. Although they look similar to other ground-dwelling birds like quail and grouse, they have no close relatives and are classified as a single family, Tinamidae, within their own order, the Tinamiformes. They are distantly related to the <a href=\"\/wiki\/Ratites\" class=\"mw-redirect\" title=\"Ratites\">ratites<\/a> (order <a href=\"\/wiki\/Struthioniformes\" class=\"mw-redirect\" title=\"Struthioniformes\">Struthioniformes<\/a>) which includes the <a href=\"\/wiki\/Rhea_(bird)\" title=\"Rhea (bird)\">rheas<\/a>, <a href=\"\/wiki\/Emu\" title=\"Emu\">emu<\/a>, and <a href=\"\/wiki\/Kiwi_(bird)\" title=\"Kiwi (bird)\">kiwis<\/a>. <\/p>"
   },
   {
-    "summary" : "<p>Anatidae includes the <a href=\"\/wiki\/Duck\" title=\"Duck\">ducks<\/a> and most duck-like waterfowl, such as <a href=\"\/wiki\/Goose\" title=\"Goose\">geese<\/a> and <a href=\"\/wiki\/Swan\" title=\"Swan\">swans<\/a>. These birds are adapted to an aquatic existence with webbed feet, flattened bills, and feathers that are excellent at shedding water due to an oily coating. <\/p>",
+    "summary" : "Anatidae includes the ducks and most duck-like waterfowl, such as geese and swans. These birds are adapted to an aquatic existence with webbed feet, flattened bills, and feathers that are excellent at shedding water due to an oily coating.",
     "images" : [
       {
         "title" : "Black-bellied whistling-duck",
-        "img" : {
-          "height" : "678",
-          "dataFileWidth" : "600",
-          "dataFileHeight" : "678",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2b\/Red.billed.whistling.duck.600pix.jpg\/300px-Red.billed.whistling.duck.600pix.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2b\/Red.billed.whistling.duck.600pix.jpg\/400px-Red.billed.whistling.duck.600pix.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2b\/Red.billed.whistling.duck.600pix.jpg\/200px-Red.billed.whistling.duck.600pix.jpg",
-          "width" : "600"
-        },
-        "filehref" : "\/wiki\/File:Red.billed.whistling.duck.600pix.jpg"
+        "filename" : "File:Red.billed.whistling.duck.600pix.jpg"
       }
     ],
-    "order" : {
-      "name" : "Anseriformes",
-      "link" : "\/wiki\/Anseriformes"
-    },
     "birds" : [
       {
         "latin" : "Dendrocygna viduata",
@@ -193,32 +174,25 @@
         "link" : "\/wiki\/Ruddy_duck"
       }
     ],
+    "order" : {
+      "name" : "Anseriformes",
+      "link" : "\/wiki\/Anseriformes"
+    },
     "category" : "Ducks, geese, and waterfowl",
     "family" : {
       "name" : "Anatidae",
       "link" : "\/wiki\/Anatidae"
-    }
+    },
+    "summaryHTML" : "<p>Anatidae includes the <a href=\"\/wiki\/Duck\" title=\"Duck\">ducks<\/a> and most duck-like waterfowl, such as <a href=\"\/wiki\/Goose\" title=\"Goose\">geese<\/a> and <a href=\"\/wiki\/Swan\" title=\"Swan\">swans<\/a>. These birds are adapted to an aquatic existence with webbed feet, flattened bills, and feathers that are excellent at shedding water due to an oily coating. <\/p>"
   },
   {
-    "summary" : "<p>The Cracidae are large birds, similar in general appearance to turkeys. The guans and curassows live in trees, but the smaller chachalacas are found in more open scrubby habitats. They are generally dull-plumaged, but the curassows and some guans have colorful facial ornaments. <\/p>",
+    "summary" : "The Cracidae are large birds, similar in general appearance to turkeys. The guans and curassows live in trees, but the smaller chachalacas are found in more open scrubby habitats. They are generally dull-plumaged, but the curassows and some guans have colorful facial ornaments.",
     "images" : [
       {
         "title" : "Gray-headed chachalaca",
-        "img" : {
-          "height" : "352",
-          "dataFileWidth" : "428",
-          "dataFileHeight" : "352",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Ghchachalaca190.JPG\/300px-Ghchachalaca190.JPG 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Ghchachalaca190.JPG\/400px-Ghchachalaca190.JPG 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c3\/Ghchachalaca190.JPG\/200px-Ghchachalaca190.JPG",
-          "width" : "428"
-        },
-        "filehref" : "\/wiki\/File:Ghchachalaca190.JPG"
+        "filename" : "File:Ghchachalaca190.JPG"
       }
     ],
-    "order" : {
-      "name" : "Galliformes",
-      "link" : "\/wiki\/Galliformes"
-    },
     "birds" : [
       {
         "name" : "Plain chachalaca",
@@ -247,32 +221,25 @@
         "latin" : "Crax rubra"
       }
     ],
-    "category" : "Guans, chachalacas, and curassows",
-    "family" : {
-      "name" : "Cracidae",
-      "link" : "\/wiki\/Cracidae"
-    }
-  },
-  {
-    "summary" : "<p>The <a href=\"\/wiki\/New_World_quail\" title=\"New World quail\">New World quail<\/a> are small, plump terrestrial birds only distantly related to the quails of the Old World, but named for their similar appearance and habits. <\/p>",
-    "images" : [
-      {
-        "title" : "Buffy-crowned wood-partridge",
-        "img" : {
-          "height" : "2448",
-          "dataFileWidth" : "3264",
-          "dataFileHeight" : "2448",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/89\/Buffycrownedwoodpartridge.jpg\/300px-Buffycrownedwoodpartridge.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/89\/Buffycrownedwoodpartridge.jpg\/400px-Buffycrownedwoodpartridge.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/89\/Buffycrownedwoodpartridge.jpg\/200px-Buffycrownedwoodpartridge.jpg",
-          "width" : "3264"
-        },
-        "filehref" : "\/wiki\/File:Buffycrownedwoodpartridge.jpg"
-      }
-    ],
     "order" : {
       "name" : "Galliformes",
       "link" : "\/wiki\/Galliformes"
     },
+    "category" : "Guans, chachalacas, and curassows",
+    "family" : {
+      "name" : "Cracidae",
+      "link" : "\/wiki\/Cracidae"
+    },
+    "summaryHTML" : "<p>The Cracidae are large birds, similar in general appearance to turkeys. The guans and curassows live in trees, but the smaller chachalacas are found in more open scrubby habitats. They are generally dull-plumaged, but the curassows and some guans have colorful facial ornaments. <\/p>"
+  },
+  {
+    "summary" : "The New World quail are small, plump terrestrial birds only distantly related to the quails of the Old World, but named for their similar appearance and habits.",
+    "images" : [
+      {
+        "title" : "Buffy-crowned wood-partridge",
+        "filename" : "File:Buffycrownedwoodpartridge.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Tawny-faced quail",
@@ -311,21 +278,22 @@
         "latin" : "Odontophorus guttatus"
       }
     ],
+    "order" : {
+      "name" : "Galliformes",
+      "link" : "\/wiki\/Galliformes"
+    },
     "category" : "New World quail",
     "family" : {
       "name" : "Odontophoridae",
       "link" : "\/wiki\/Odontophoridae"
-    }
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/New_World_quail\" title=\"New World quail\">New World quail<\/a> are small, plump terrestrial birds only distantly related to the quails of the Old World, but named for their similar appearance and habits. <\/p>"
   },
   {
-    "summary" : "<p><a href=\"\/wiki\/Grebe\" title=\"Grebe\">Grebes<\/a> are small to medium-large freshwater diving birds. They have lobed toes and are excellent swimmers and divers. However, they have their feet placed far back on the body, making them quite ungainly on land. <\/p>",
+    "summary" : "Grebes are small to medium-large freshwater diving birds. They have lobed toes and are excellent swimmers and divers. However, they have their feet placed far back on the body, making them quite ungainly on land.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Podicipediformes",
-      "link" : "\/wiki\/Podicipediformes"
-    },
     "birds" : [
       {
         "name" : "Least grebe",
@@ -344,44 +312,29 @@
         "link" : "\/wiki\/Eared_grebe"
       }
     ],
+    "order" : {
+      "name" : "Podicipediformes",
+      "link" : "\/wiki\/Podicipediformes"
+    },
     "category" : "Grebes",
     "family" : {
       "name" : "Podicipedidae",
       "link" : "\/wiki\/Podicipedidae"
-    }
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Grebe\" title=\"Grebe\">Grebes<\/a> are small to medium-large freshwater diving birds. They have lobed toes and are excellent swimmers and divers. However, they have their feet placed far back on the body, making them quite ungainly on land. <\/p>"
   },
   {
-    "summary" : "<p><a href=\"\/wiki\/Pigeon\" class=\"mw-redirect\" title=\"Pigeon\">Pigeons<\/a> and <a href=\"\/wiki\/Dove\" class=\"mw-redirect\" title=\"Dove\">doves<\/a> are stout-bodied birds with short necks and short slender bills with a fleshy <a href=\"\/wiki\/Cere\" class=\"mw-redirect\" title=\"Cere\">cere<\/a>. <\/p>",
+    "summary" : "Pigeons and doves are stout-bodied birds with short necks and short slender bills with a fleshy cere.",
     "images" : [
       {
         "title" : "Band-tailed pigeon",
-        "img" : {
-          "height" : "2154",
-          "dataFileWidth" : "3300",
-          "dataFileHeight" : "2154",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d8\/Patagioenas_fasciata2.jpg\/300px-Patagioenas_fasciata2.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d8\/Patagioenas_fasciata2.jpg\/400px-Patagioenas_fasciata2.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d8\/Patagioenas_fasciata2.jpg\/200px-Patagioenas_fasciata2.jpg",
-          "width" : "3300"
-        },
-        "filehref" : "\/wiki\/File:Patagioenas_fasciata2.jpg"
+        "filename" : "File:Patagioenas_fasciata2.jpg"
       },
       {
         "title" : "Pale-vented pigeon",
-        "img" : {
-          "height" : "1726",
-          "dataFileWidth" : "2301",
-          "dataFileHeight" : "1726",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a8\/Patagioenas_cayennensis.jpg\/300px-Patagioenas_cayennensis.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a8\/Patagioenas_cayennensis.jpg\/400px-Patagioenas_cayennensis.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a8\/Patagioenas_cayennensis.jpg\/200px-Patagioenas_cayennensis.jpg",
-          "width" : "2301"
-        },
-        "filehref" : "\/wiki\/File:Patagioenas_cayennensis.jpg"
+        "filename" : "File:Patagioenas_cayennensis.jpg"
       }
     ],
-    "order" : {
-      "name" : "Columbiformes",
-      "link" : "\/wiki\/Columbiformes"
-    },
     "birds" : [
       {
         "latin" : "Columba livia",
@@ -525,32 +478,25 @@
         "latin" : "Zenaida macroura"
       }
     ],
+    "order" : {
+      "name" : "Columbiformes",
+      "link" : "\/wiki\/Columbiformes"
+    },
     "category" : "Pigeons and doves",
     "family" : {
       "name" : "Columbidae",
       "link" : "\/wiki\/Columbidae"
-    }
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Pigeon\" class=\"mw-redirect\" title=\"Pigeon\">Pigeons<\/a> and <a href=\"\/wiki\/Dove\" class=\"mw-redirect\" title=\"Dove\">doves<\/a> are stout-bodied birds with short necks and short slender bills with a fleshy <a href=\"\/wiki\/Cere\" class=\"mw-redirect\" title=\"Cere\">cere<\/a>. <\/p>"
   },
   {
-    "summary" : "<p>The family Cuculidae includes <a href=\"\/wiki\/Cuckoo\" title=\"Cuckoo\">cuckoos<\/a>, <a href=\"\/wiki\/Geococcyx\" class=\"mw-redirect\" title=\"Geococcyx\">roadrunners<\/a>, and <a href=\"\/wiki\/Ani_(bird)\" title=\"Ani (bird)\">anis<\/a>. These birds are of variable size with slender bodies, long tails, and strong legs. The Old World cuckoos are <a href=\"\/wiki\/Brood_parasite\" title=\"Brood parasite\">brood parasites<\/a>. <\/p>",
+    "summary" : "The family Cuculidae includes cuckoos, roadrunners, and anis. These birds are of variable size with slender bodies, long tails, and strong legs. The Old World cuckoos are brood parasites.",
     "images" : [
       {
         "title" : "Groove-billed ani",
-        "img" : {
-          "height" : "1759",
-          "dataFileWidth" : "1319",
-          "dataFileHeight" : "1759",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/22\/Crotophaga_sulcirostris.jpg\/300px-Crotophaga_sulcirostris.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/22\/Crotophaga_sulcirostris.jpg\/400px-Crotophaga_sulcirostris.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/22\/Crotophaga_sulcirostris.jpg\/200px-Crotophaga_sulcirostris.jpg",
-          "width" : "1319"
-        },
-        "filehref" : "\/wiki\/File:Crotophaga_sulcirostris.jpg"
+        "filename" : "File:Crotophaga_sulcirostris.jpg"
       }
     ],
-    "order" : {
-      "name" : "Cuculiformes",
-      "link" : "\/wiki\/Cuculiformes"
-    },
     "birds" : [
       {
         "latin" : "Crotophaga major",
@@ -615,21 +561,22 @@
         "latin" : "Coccyzus erythropthalmus"
       }
     ],
+    "order" : {
+      "name" : "Cuculiformes",
+      "link" : "\/wiki\/Cuculiformes"
+    },
     "category" : "Cuckoos",
     "family" : {
       "name" : "Cuculidae",
       "link" : "\/wiki\/Cuculidae"
-    }
+    },
+    "summaryHTML" : "<p>The family Cuculidae includes <a href=\"\/wiki\/Cuckoo\" title=\"Cuckoo\">cuckoos<\/a>, <a href=\"\/wiki\/Geococcyx\" class=\"mw-redirect\" title=\"Geococcyx\">roadrunners<\/a>, and <a href=\"\/wiki\/Ani_(bird)\" title=\"Ani (bird)\">anis<\/a>. These birds are of variable size with slender bodies, long tails, and strong legs. The Old World cuckoos are <a href=\"\/wiki\/Brood_parasite\" title=\"Brood parasite\">brood parasites<\/a>. <\/p>"
   },
   {
-    "summary" : "<p><a href=\"\/wiki\/Nightjar\" title=\"Nightjar\">Nightjars<\/a> are medium-sized nocturnal birds that usually nest on the ground. They have long wings, short legs, and very short bills. Most have small feet, of little use for walking, and long pointed wings. Their soft plumage is camouflaged to resemble bark or leaves. <\/p>",
+    "summary" : "Nightjars are medium-sized nocturnal birds that usually nest on the ground. They have long wings, short legs, and very short bills. Most have small feet, of little use for walking, and long pointed wings. Their soft plumage is camouflaged to resemble bark or leaves.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Caprimulgiformes",
-      "link" : "\/wiki\/Caprimulgiformes"
-    },
     "birds" : [
       {
         "name" : "Short-tailed nighthawk",
@@ -683,21 +630,22 @@
         "latin" : "Hydropsalis cayennensis"
       }
     ],
+    "order" : {
+      "name" : "Caprimulgiformes",
+      "link" : "\/wiki\/Caprimulgiformes"
+    },
     "category" : "Nightjars and allies",
     "family" : {
       "name" : "Caprimulgidae",
       "link" : "\/wiki\/Caprimulgidae"
-    }
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Nightjar\" title=\"Nightjar\">Nightjars<\/a> are medium-sized nocturnal birds that usually nest on the ground. They have long wings, short legs, and very short bills. Most have small feet, of little use for walking, and long pointed wings. Their soft plumage is camouflaged to resemble bark or leaves. <\/p>"
   },
   {
-    "summary" : "<p>The oilbird is a slim, long-winged bird distantly related to the nightjars. It is nocturnal and a specialist feeder on the fruit of the <a href=\"\/wiki\/Oil_palm\" class=\"mw-redirect\" title=\"Oil palm\">oil palm<\/a>. <\/p>",
+    "summary" : "The oilbird is a slim, long-winged bird distantly related to the nightjars. It is nocturnal and a specialist feeder on the fruit of the oil palm.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Steatornithiformes",
-      "link" : "\/wiki\/Steatornithiformes"
-    },
     "birds" : [
       {
         "name" : "Oilbird",
@@ -705,32 +653,25 @@
         "latin" : "Steatornis caripensis"
       }
     ],
+    "order" : {
+      "name" : "Steatornithiformes",
+      "link" : "\/wiki\/Steatornithiformes"
+    },
     "category" : "Oilbird",
     "family" : {
       "name" : "Steatornithidae",
       "link" : "\/wiki\/Steatornithidae"
-    }
+    },
+    "summaryHTML" : "<p>The oilbird is a slim, long-winged bird distantly related to the nightjars. It is nocturnal and a specialist feeder on the fruit of the <a href=\"\/wiki\/Oil_palm\" class=\"mw-redirect\" title=\"Oil palm\">oil palm<\/a>. <\/p>"
   },
   {
-    "summary" : "<p>The potoos (sometimes called poor-me-ones) are large <a href=\"\/wiki\/Near_passerine\" title=\"Near passerine\">near passerine<\/a> birds related to the nightjars and frogmouths. They are nocturnal insectivores which lack the bristles around the mouth found in the true nightjars. <\/p>",
+    "summary" : "The potoos (sometimes called poor-me-ones) are large near passerine birds related to the nightjars and frogmouths. They are nocturnal insectivores which lack the bristles around the mouth found in the true nightjars.",
     "images" : [
       {
         "title" : "Common potoo",
-        "img" : {
-          "height" : "2592",
-          "dataFileWidth" : "3872",
-          "dataFileHeight" : "2592",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/07\/Nyctibius_griseus_471885191_27f931630d_o.jpg\/300px-Nyctibius_griseus_471885191_27f931630d_o.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/07\/Nyctibius_griseus_471885191_27f931630d_o.jpg\/400px-Nyctibius_griseus_471885191_27f931630d_o.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/07\/Nyctibius_griseus_471885191_27f931630d_o.jpg\/200px-Nyctibius_griseus_471885191_27f931630d_o.jpg",
-          "width" : "3872"
-        },
-        "filehref" : "\/wiki\/File:Nyctibius_griseus_471885191_27f931630d_o.jpg"
+        "filename" : "File:Nyctibius_griseus_471885191_27f931630d_o.jpg"
       }
     ],
-    "order" : {
-      "name" : "Nyctibiiformes",
-      "link" : "\/wiki\/Nyctibiiformes"
-    },
     "birds" : [
       {
         "name" : "Great potoo",
@@ -748,21 +689,22 @@
         "latin" : "Nyctibius jamaicensis"
       }
     ],
+    "order" : {
+      "name" : "Nyctibiiformes",
+      "link" : "\/wiki\/Nyctibiiformes"
+    },
     "category" : "Potoos",
     "family" : {
       "name" : "Nyctibiidae",
       "link" : "\/wiki\/Nyctibiidae"
-    }
+    },
+    "summaryHTML" : "<p>The potoos (sometimes called poor-me-ones) are large <a href=\"\/wiki\/Near_passerine\" title=\"Near passerine\">near passerine<\/a> birds related to the nightjars and frogmouths. They are nocturnal insectivores which lack the bristles around the mouth found in the true nightjars. <\/p>"
   },
   {
-    "summary" : "<p><a href=\"\/wiki\/Swift\" title=\"Swift\">Swifts<\/a> are small birds which spend the majority of their lives flying. These birds have very short legs and never settle voluntarily on the ground, perching instead only on vertical surfaces. Many swifts have long swept-back wings which resemble a crescent or boomerang. <\/p>",
+    "summary" : "Swifts are small birds which spend the majority of their lives flying. These birds have very short legs and never settle voluntarily on the ground, perching instead only on vertical surfaces. Many swifts have long swept-back wings which resemble a crescent or boomerang.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Apodiformes",
-      "link" : "\/wiki\/Apodiformes"
-    },
     "birds" : [
       {
         "name" : "American black swift",
@@ -822,68 +764,37 @@
         "link" : "\/wiki\/Great_swallow-tailed_swift"
       }
     ],
-    "category" : "Swifts",
-    "family" : {
-      "name" : "Apodidae",
-      "link" : "\/wiki\/Apodidae"
-    }
-  },
-  {
-    "summary" : "<p><a href=\"\/wiki\/Hummingbird\" title=\"Hummingbird\">Hummingbirds<\/a> are small birds capable of hovering in mid-air due to the rapid flapping of their wings. They are the only birds that can fly backwards. <\/p>",
-    "images" : [
-      {
-        "title" : "Female gray-tailed mountain-gem",
-        "img" : {
-          "height" : "611",
-          "dataFileWidth" : "697",
-          "dataFileHeight" : "611",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/23\/142aL44mountaingem.JPG\/300px-142aL44mountaingem.JPG 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/23\/142aL44mountaingem.JPG\/399px-142aL44mountaingem.JPG 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/23\/142aL44mountaingem.JPG\/200px-142aL44mountaingem.JPG",
-          "width" : "697"
-        },
-        "filehref" : "\/wiki\/File:142aL44mountaingem.JPG"
-      },
-      {
-        "title" : "Male coppery-headed emerald, one of Costa Rica's endemics",
-        "img" : {
-          "height" : "1575",
-          "dataFileWidth" : "2530",
-          "dataFileHeight" : "1575",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a2\/Male_Elvira_cupreiceps_at_feeder_-_closeup.jpg\/375px-Male_Elvira_cupreiceps_at_feeder_-_closeup.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a2\/Male_Elvira_cupreiceps_at_feeder_-_closeup.jpg\/500px-Male_Elvira_cupreiceps_at_feeder_-_closeup.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a2\/Male_Elvira_cupreiceps_at_feeder_-_closeup.jpg\/250px-Male_Elvira_cupreiceps_at_feeder_-_closeup.jpg",
-          "width" : "2530"
-        },
-        "filehref" : "\/wiki\/File:Male_Elvira_cupreiceps_at_feeder_-_closeup.jpg"
-      },
-      {
-        "title" : "Female green-crowned brilliant",
-        "img" : {
-          "height" : "1024",
-          "dataFileWidth" : "768",
-          "dataFileHeight" : "1024",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c9\/Heliodoxa_jacula_%28female%29_taxobox.jpg\/197px-Heliodoxa_jacula_%28female%29_taxobox.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c9\/Heliodoxa_jacula_%28female%29_taxobox.jpg\/262px-Heliodoxa_jacula_%28female%29_taxobox.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c9\/Heliodoxa_jacula_%28female%29_taxobox.jpg\/131px-Heliodoxa_jacula_%28female%29_taxobox.jpg",
-          "width" : "768"
-        },
-        "filehref" : "\/wiki\/File:Heliodoxa_jacula_(female)_taxobox.jpg"
-      },
-      {
-        "title" : "Male volcano hummingbird",
-        "img" : {
-          "height" : "1590",
-          "dataFileWidth" : "1164",
-          "dataFileHeight" : "1590",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/08\/Selasphorus_flammula.jpg\/192px-Selasphorus_flammula.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/08\/Selasphorus_flammula.jpg\/256px-Selasphorus_flammula.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/08\/Selasphorus_flammula.jpg\/128px-Selasphorus_flammula.jpg",
-          "width" : "1164"
-        },
-        "filehref" : "\/wiki\/File:Selasphorus_flammula.jpg"
-      }
-    ],
     "order" : {
       "name" : "Apodiformes",
       "link" : "\/wiki\/Apodiformes"
     },
+    "category" : "Swifts",
+    "family" : {
+      "name" : "Apodidae",
+      "link" : "\/wiki\/Apodidae"
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Swift\" title=\"Swift\">Swifts<\/a> are small birds which spend the majority of their lives flying. These birds have very short legs and never settle voluntarily on the ground, perching instead only on vertical surfaces. Many swifts have long swept-back wings which resemble a crescent or boomerang. <\/p>"
+  },
+  {
+    "summary" : "Hummingbirds are small birds capable of hovering in mid-air due to the rapid flapping of their wings. They are the only birds that can fly backwards.",
+    "images" : [
+      {
+        "title" : "Female gray-tailed mountain-gem",
+        "filename" : "File:142aL44mountaingem.JPG"
+      },
+      {
+        "title" : "Male coppery-headed emerald, one of Costa Rica's endemics",
+        "filename" : "File:Male_Elvira_cupreiceps_at_feeder_-_closeup.jpg"
+      },
+      {
+        "title" : "Female green-crowned brilliant",
+        "filename" : "File:Heliodoxa_jacula_(female)_taxobox.jpg"
+      },
+      {
+        "title" : "Male volcano hummingbird",
+        "filename" : "File:Selasphorus_flammula.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "White-necked jacobin",
@@ -1164,21 +1075,22 @@
         "latin" : "Chlorestes eliciae"
       }
     ],
+    "order" : {
+      "name" : "Apodiformes",
+      "link" : "\/wiki\/Apodiformes"
+    },
     "category" : "Hummingbirds",
     "family" : {
       "name" : "Trochilidae",
       "link" : "\/wiki\/Trochilidae"
-    }
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Hummingbird\" title=\"Hummingbird\">Hummingbirds<\/a> are small birds capable of hovering in mid-air due to the rapid flapping of their wings. They are the only birds that can fly backwards. <\/p>"
   },
   {
-    "summary" : "<p>Rallidae is a large family of small to medium-sized birds which includes the <a href=\"\/wiki\/Rail_(bird)\" title=\"Rail (bird)\">rails<\/a>, <a href=\"\/wiki\/Crake\" class=\"mw-redirect\" title=\"Crake\">crakes<\/a>, <a href=\"\/wiki\/Coot\" title=\"Coot\">coots<\/a>, and <a href=\"\/wiki\/Rallidae\" class=\"mw-redirect\" title=\"Rallidae\">gallinules<\/a>. Typically they inhabit dense vegetation in damp environments near lakes, swamps, or rivers. In general they are shy and secretive birds, making them difficult to observe. Most species have strong legs and long toes which are well adapted to soft uneven surfaces. They tend to have short, rounded wings and to be weak fliers. <\/p>",
+    "summary" : "Rallidae is a large family of small to medium-sized birds which includes the rails, crakes, coots, and gallinules. Typically they inhabit dense vegetation in damp environments near lakes, swamps, or rivers. In general they are shy and secretive birds, making them difficult to observe. Most species have strong legs and long toes which are well adapted to soft uneven surfaces. They tend to have short, rounded wings and to be weak fliers.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Gruiformes",
-      "link" : "\/wiki\/Gruiformes"
-    },
     "birds" : [
       {
         "name" : "Paint-billed crake",
@@ -1268,21 +1180,22 @@
         "link" : "\/wiki\/Black_rail"
       }
     ],
-    "category" : "Rails, gallinules, and coots",
-    "family" : {
-      "name" : "Rallidae",
-      "link" : "\/wiki\/Rallidae"
-    }
-  },
-  {
-    "summary" : "<p>Heliornithidae is a small family of tropical birds with webbed lobes on their feet similar to those of grebes and coots. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Gruiformes",
       "link" : "\/wiki\/Gruiformes"
     },
+    "category" : "Rails, gallinules, and coots",
+    "family" : {
+      "name" : "Rallidae",
+      "link" : "\/wiki\/Rallidae"
+    },
+    "summaryHTML" : "<p>Rallidae is a large family of small to medium-sized birds which includes the <a href=\"\/wiki\/Rail_(bird)\" title=\"Rail (bird)\">rails<\/a>, <a href=\"\/wiki\/Crake\" class=\"mw-redirect\" title=\"Crake\">crakes<\/a>, <a href=\"\/wiki\/Coot\" title=\"Coot\">coots<\/a>, and <a href=\"\/wiki\/Rallidae\" class=\"mw-redirect\" title=\"Rallidae\">gallinules<\/a>. Typically they inhabit dense vegetation in damp environments near lakes, swamps, or rivers. In general they are shy and secretive birds, making them difficult to observe. Most species have strong legs and long toes which are well adapted to soft uneven surfaces. They tend to have short, rounded wings and to be weak fliers. <\/p>"
+  },
+  {
+    "summary" : "Heliornithidae is a small family of tropical birds with webbed lobes on their feet similar to those of grebes and coots.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Sungrebe",
@@ -1290,21 +1203,22 @@
         "latin" : "Heliornis fulica"
       }
     ],
-    "category" : "Finfoots",
-    "family" : {
-      "name" : "Heliornithidae",
-      "link" : "\/wiki\/Heliornithidae"
-    }
-  },
-  {
-    "summary" : "<p>The limpkin resembles a large rail. It has drab-brown plumage and a grayer head and neck. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Gruiformes",
       "link" : "\/wiki\/Gruiformes"
     },
+    "category" : "Finfoots",
+    "family" : {
+      "name" : "Heliornithidae",
+      "link" : "\/wiki\/Heliornithidae"
+    },
+    "summaryHTML" : "<p>Heliornithidae is a small family of tropical birds with webbed lobes on their feet similar to those of grebes and coots. <\/p>"
+  },
+  {
+    "summary" : "The limpkin resembles a large rail. It has drab-brown plumage and a grayer head and neck.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Limpkin",
@@ -1312,21 +1226,22 @@
         "latin" : "Aramus guarauna"
       }
     ],
+    "order" : {
+      "name" : "Gruiformes",
+      "link" : "\/wiki\/Gruiformes"
+    },
     "category" : "Limpkin",
     "family" : {
       "name" : "Aramidae",
       "link" : "\/wiki\/Aramidae"
-    }
+    },
+    "summaryHTML" : "<p>The limpkin resembles a large rail. It has drab-brown plumage and a grayer head and neck. <\/p>"
   },
   {
-    "summary" : "<p>The thick-knees are a group of largely tropical waders in the family Burhinidae. They are found worldwide within the tropical zone, with some species also breeding in temperate Europe and Australia. They are medium to large waders with strong black or yellow-black bills, large yellow eyes, and cryptic plumage. Despite being classed as waders, most species have a preference for arid or semi-arid habitats. <\/p>",
+    "summary" : "The thick-knees are a group of largely tropical waders in the family Burhinidae. They are found worldwide within the tropical zone, with some species also breeding in temperate Europe and Australia. They are medium to large waders with strong black or yellow-black bills, large yellow eyes, and cryptic plumage. Despite being classed as waders, most species have a preference for arid or semi-arid habitats.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Charadriiformes",
-      "link" : "\/wiki\/Charadriiformes"
-    },
     "birds" : [
       {
         "name" : "Double-striped thick-knee",
@@ -1334,32 +1249,25 @@
         "latin" : "Burhinus bistriatus"
       }
     ],
-    "category" : "Thick-knees",
-    "family" : {
-      "name" : "Burhinidae",
-      "link" : "\/wiki\/Burhinidae"
-    }
-  },
-  {
-    "summary" : "<p>Recurvirostridae is a family of large wading birds which includes the <a href=\"\/wiki\/Avocet\" title=\"Avocet\">avocets<\/a> and <a href=\"\/wiki\/Stilt\" title=\"Stilt\">stilts<\/a>. The avocets have long legs and long up-curved bills. The stilts have extremely long legs and long, thin, straight bills. <\/p>",
-    "images" : [
-      {
-        "title" : "Black-necked stilt",
-        "img" : {
-          "height" : "624",
-          "dataFileWidth" : "600",
-          "dataFileHeight" : "624",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1a\/Black-necked_Stilt.jpg\/300px-Black-necked_Stilt.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1a\/Black-necked_Stilt.jpg\/400px-Black-necked_Stilt.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1a\/Black-necked_Stilt.jpg\/200px-Black-necked_Stilt.jpg",
-          "width" : "600"
-        },
-        "filehref" : "\/wiki\/File:Black-necked_Stilt.jpg"
-      }
-    ],
     "order" : {
       "name" : "Charadriiformes",
       "link" : "\/wiki\/Charadriiformes"
     },
+    "category" : "Thick-knees",
+    "family" : {
+      "name" : "Burhinidae",
+      "link" : "\/wiki\/Burhinidae"
+    },
+    "summaryHTML" : "<p>The thick-knees are a group of largely tropical waders in the family Burhinidae. They are found worldwide within the tropical zone, with some species also breeding in temperate Europe and Australia. They are medium to large waders with strong black or yellow-black bills, large yellow eyes, and cryptic plumage. Despite being classed as waders, most species have a preference for arid or semi-arid habitats. <\/p>"
+  },
+  {
+    "summary" : "Recurvirostridae is a family of large wading birds which includes the avocets and stilts. The avocets have long legs and long up-curved bills. The stilts have extremely long legs and long, thin, straight bills.",
+    "images" : [
+      {
+        "title" : "Black-necked stilt",
+        "filename" : "File:Black-necked_Stilt.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Black-necked stilt",
@@ -1372,21 +1280,22 @@
         "latin" : "Recurvirostra americana"
       }
     ],
-    "category" : "Stilts and avocets",
-    "family" : {
-      "name" : "Recurvirostridae",
-      "link" : "\/wiki\/Recurvirostridae"
-    }
-  },
-  {
-    "summary" : "<p>The <a href=\"\/wiki\/Oystercatcher\" title=\"Oystercatcher\">oystercatchers<\/a> are large and noisy <a href=\"\/wiki\/Plover\" title=\"Plover\">plover<\/a>-like birds with strong bills used for smashing or prying open <a href=\"\/wiki\/Mollusc\" class=\"mw-redirect\" title=\"Mollusc\">molluscs<\/a>. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Charadriiformes",
       "link" : "\/wiki\/Charadriiformes"
     },
+    "category" : "Stilts and avocets",
+    "family" : {
+      "name" : "Recurvirostridae",
+      "link" : "\/wiki\/Recurvirostridae"
+    },
+    "summaryHTML" : "<p>Recurvirostridae is a family of large wading birds which includes the <a href=\"\/wiki\/Avocet\" title=\"Avocet\">avocets<\/a> and <a href=\"\/wiki\/Stilt\" title=\"Stilt\">stilts<\/a>. The avocets have long legs and long up-curved bills. The stilts have extremely long legs and long, thin, straight bills. <\/p>"
+  },
+  {
+    "summary" : "The oystercatchers are large and noisy plover-like birds with strong bills used for smashing or prying open molluscs.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "American oystercatcher",
@@ -1394,21 +1303,22 @@
         "latin" : "Haematopus palliatus"
       }
     ],
-    "category" : "Oystercatchers",
-    "family" : {
-      "name" : "Haematopodidae",
-      "link" : "\/wiki\/Haematopodidae"
-    }
-  },
-  {
-    "summary" : "<p>The family Charadriidae includes the <a href=\"\/wiki\/Plover\" title=\"Plover\">plovers<\/a>, <a href=\"\/wiki\/Dotterel\" class=\"mw-redirect\" title=\"Dotterel\">dotterels<\/a>, and <a href=\"\/wiki\/Lapwing\" title=\"Lapwing\">lapwings<\/a>. They are small to medium-sized birds with compact bodies, short thick necks, and long, usually pointed, wings. They are found in open country worldwide, mostly in habitats near water. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Charadriiformes",
       "link" : "\/wiki\/Charadriiformes"
     },
+    "category" : "Oystercatchers",
+    "family" : {
+      "name" : "Haematopodidae",
+      "link" : "\/wiki\/Haematopodidae"
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/Oystercatcher\" title=\"Oystercatcher\">oystercatchers<\/a> are large and noisy <a href=\"\/wiki\/Plover\" title=\"Plover\">plover<\/a>-like birds with strong bills used for smashing or prying open <a href=\"\/wiki\/Mollusc\" class=\"mw-redirect\" title=\"Mollusc\">molluscs<\/a>. <\/p>"
+  },
+  {
+    "summary" : "The family Charadriidae includes the plovers, dotterels, and lapwings. They are small to medium-sized birds with compact bodies, short thick necks, and long, usually pointed, wings. They are found in open country worldwide, mostly in habitats near water.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Southern lapwing",
@@ -1463,21 +1373,22 @@
         "latin" : "Charadrius nivosus"
       }
     ],
-    "category" : "Plovers and lapwings",
-    "family" : {
-      "name" : "Charadriidae",
-      "link" : "\/wiki\/Charadriidae"
-    }
-  },
-  {
-    "summary" : "<p>The <a href=\"\/wiki\/Jacana_(genus)\" title=\"Jacana (genus)\">jacanas<\/a> are a family of waders which are found throughout the tropics. They are identifiable by their huge feet and claws which enable them to walk on floating vegetation in the shallow lakes that are their preferred habitat. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Charadriiformes",
       "link" : "\/wiki\/Charadriiformes"
     },
+    "category" : "Plovers and lapwings",
+    "family" : {
+      "name" : "Charadriidae",
+      "link" : "\/wiki\/Charadriidae"
+    },
+    "summaryHTML" : "<p>The family Charadriidae includes the <a href=\"\/wiki\/Plover\" title=\"Plover\">plovers<\/a>, <a href=\"\/wiki\/Dotterel\" class=\"mw-redirect\" title=\"Dotterel\">dotterels<\/a>, and <a href=\"\/wiki\/Lapwing\" title=\"Lapwing\">lapwings<\/a>. They are small to medium-sized birds with compact bodies, short thick necks, and long, usually pointed, wings. They are found in open country worldwide, mostly in habitats near water. <\/p>"
+  },
+  {
+    "summary" : "The jacanas are a family of waders which are found throughout the tropics. They are identifiable by their huge feet and claws which enable them to walk on floating vegetation in the shallow lakes that are their preferred habitat.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Northern jacana",
@@ -1491,56 +1402,33 @@
         "link" : "\/wiki\/Wattled_jacana"
       }
     ],
-    "category" : "Jacanas",
-    "family" : {
-      "name" : "Jacanidae",
-      "link" : "\/wiki\/Jacanidae"
-    }
-  },
-  {
-    "summary" : "<p>Scolopacidae is a large diverse family of small to medium-sized shorebirds including the <a href=\"\/wiki\/Sandpiper\" title=\"Sandpiper\">sandpipers<\/a>, <a href=\"\/wiki\/Curlew\" title=\"Curlew\">curlews<\/a>, <a href=\"\/wiki\/Godwit\" title=\"Godwit\">godwits<\/a>, <a href=\"\/wiki\/Tringa\" title=\"Tringa\">shanks<\/a>, <a href=\"\/wiki\/Tattler_(bird)\" title=\"Tattler (bird)\">tattlers<\/a>, <a href=\"\/wiki\/Woodcock\" title=\"Woodcock\">woodcocks<\/a>, <a href=\"\/wiki\/Snipe\" title=\"Snipe\">snipes<\/a>, <a href=\"\/wiki\/Dowitcher\" title=\"Dowitcher\">dowitchers<\/a>, and <a href=\"\/wiki\/Phalarope\" title=\"Phalarope\">phalaropes<\/a>. The majority of these species eat small invertebrates picked out of the mud or soil. Variation in length of legs and bills enables multiple species to feed in the same habitat, particularly on the coast, without direct competition for food. <\/p>",
-    "images" : [
-      {
-        "title" : "Long-billed dowitcher",
-        "img" : {
-          "height" : "2437",
-          "dataFileWidth" : "3052",
-          "dataFileHeight" : "2437",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Limnodromus_scolopaceus_Mike_Baird_crop.jpg\/329px-Limnodromus_scolopaceus_Mike_Baird_crop.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Limnodromus_scolopaceus_Mike_Baird_crop.jpg\/438px-Limnodromus_scolopaceus_Mike_Baird_crop.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Limnodromus_scolopaceus_Mike_Baird_crop.jpg\/219px-Limnodromus_scolopaceus_Mike_Baird_crop.jpg",
-          "width" : "3052"
-        },
-        "filehref" : "\/wiki\/File:Limnodromus_scolopaceus_Mike_Baird_crop.jpg"
-      },
-      {
-        "title" : "Western sandpiper",
-        "img" : {
-          "height" : "667",
-          "dataFileWidth" : "1000",
-          "dataFileHeight" : "667",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/51\/Western_Sandpiper.jpg\/375px-Western_Sandpiper.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/51\/Western_Sandpiper.jpg\/500px-Western_Sandpiper.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/51\/Western_Sandpiper.jpg\/250px-Western_Sandpiper.jpg",
-          "width" : "1000"
-        },
-        "filehref" : "\/wiki\/File:Western_Sandpiper.jpg"
-      },
-      {
-        "title" : "Spotted sandpiper",
-        "img" : {
-          "height" : "840",
-          "dataFileWidth" : "1122",
-          "dataFileHeight" : "840",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/46\/Actitis-macularia-005.jpg\/351px-Actitis-macularia-005.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/46\/Actitis-macularia-005.jpg\/468px-Actitis-macularia-005.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/46\/Actitis-macularia-005.jpg\/234px-Actitis-macularia-005.jpg",
-          "width" : "1122"
-        },
-        "filehref" : "\/wiki\/File:Actitis-macularia-005.jpg"
-      }
-    ],
     "order" : {
       "name" : "Charadriiformes",
       "link" : "\/wiki\/Charadriiformes"
     },
+    "category" : "Jacanas",
+    "family" : {
+      "name" : "Jacanidae",
+      "link" : "\/wiki\/Jacanidae"
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/Jacana_(genus)\" title=\"Jacana (genus)\">jacanas<\/a> are a family of waders which are found throughout the tropics. They are identifiable by their huge feet and claws which enable them to walk on floating vegetation in the shallow lakes that are their preferred habitat. <\/p>"
+  },
+  {
+    "summary" : "Scolopacidae is a large diverse family of small to medium-sized shorebirds including the sandpipers, curlews, godwits, shanks, tattlers, woodcocks, snipes, dowitchers, and phalaropes. The majority of these species eat small invertebrates picked out of the mud or soil. Variation in length of legs and bills enables multiple species to feed in the same habitat, particularly on the coast, without direct competition for food.",
+    "images" : [
+      {
+        "title" : "Long-billed dowitcher",
+        "filename" : "File:Limnodromus_scolopaceus_Mike_Baird_crop.jpg"
+      },
+      {
+        "title" : "Western sandpiper",
+        "filename" : "File:Western_Sandpiper.jpg"
+      },
+      {
+        "title" : "Spotted sandpiper",
+        "filename" : "File:Actitis-macularia-005.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Upland sandpiper",
@@ -1703,21 +1591,22 @@
         "latin" : "Phalaropus fulicarius"
       }
     ],
-    "category" : "Sandpipers and allies",
-    "family" : {
-      "name" : "Scolopacidae",
-      "link" : "\/wiki\/Scolopacidae"
-    }
-  },
-  {
-    "summary" : "<p>The family Stercorariidae are, in general, medium to large birds, typically with gray or brown plumage, often with white markings on the wings. They nest on the ground in temperate and arctic regions and are long-distance migrants. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Charadriiformes",
       "link" : "\/wiki\/Charadriiformes"
     },
+    "category" : "Sandpipers and allies",
+    "family" : {
+      "name" : "Scolopacidae",
+      "link" : "\/wiki\/Scolopacidae"
+    },
+    "summaryHTML" : "<p>Scolopacidae is a large diverse family of small to medium-sized shorebirds including the <a href=\"\/wiki\/Sandpiper\" title=\"Sandpiper\">sandpipers<\/a>, <a href=\"\/wiki\/Curlew\" title=\"Curlew\">curlews<\/a>, <a href=\"\/wiki\/Godwit\" title=\"Godwit\">godwits<\/a>, <a href=\"\/wiki\/Tringa\" title=\"Tringa\">shanks<\/a>, <a href=\"\/wiki\/Tattler_(bird)\" title=\"Tattler (bird)\">tattlers<\/a>, <a href=\"\/wiki\/Woodcock\" title=\"Woodcock\">woodcocks<\/a>, <a href=\"\/wiki\/Snipe\" title=\"Snipe\">snipes<\/a>, <a href=\"\/wiki\/Dowitcher\" title=\"Dowitcher\">dowitchers<\/a>, and <a href=\"\/wiki\/Phalarope\" title=\"Phalarope\">phalaropes<\/a>. The majority of these species eat small invertebrates picked out of the mud or soil. Variation in length of legs and bills enables multiple species to feed in the same habitat, particularly on the coast, without direct competition for food. <\/p>"
+  },
+  {
+    "summary" : "The family Stercorariidae are, in general, medium to large birds, typically with gray or brown plumage, often with white markings on the wings. They nest on the ground in temperate and arctic regions and are long-distance migrants.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "latin" : "Stercorarius maccormicki",
@@ -1742,21 +1631,22 @@
         "link" : "\/wiki\/Long-tailed_jaeger"
       }
     ],
-    "category" : "Skuas and jaegers",
-    "family" : {
-      "name" : "Stercorariidae",
-      "link" : "\/wiki\/Stercorariidae"
-    }
-  },
-  {
-    "summary" : "<p>Laridae is a family of medium to large seabirds and includes <a href=\"\/wiki\/Gull\" title=\"Gull\">gulls<\/a>, <a href=\"\/wiki\/Kittiwake\" title=\"Kittiwake\">kittiwakes<\/a>, <a href=\"\/wiki\/Terns\" class=\"mw-redirect\" title=\"Terns\">terns<\/a>, and <a href=\"\/wiki\/Skimmer_(bird)\" class=\"mw-redirect\" title=\"Skimmer (bird)\">skimmers<\/a>. They are typically gray or white, often with black markings on the head or wings. They have longish bills and webbed feet. Terns are a group of generally medium to large seabirds typically with gray or white plumage, often with black markings on the head. Most terns hunt fish by diving but some pick insects off the surface of fresh water. Terns are generally long-lived birds, with several species known to live in excess of 30 years. Skimmers are a small family of tropical tern-like birds. They have an elongated lower mandible which they use to feed by flying low over the water surface and skimming the water for small fish. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Charadriiformes",
       "link" : "\/wiki\/Charadriiformes"
     },
+    "category" : "Skuas and jaegers",
+    "family" : {
+      "name" : "Stercorariidae",
+      "link" : "\/wiki\/Stercorariidae"
+    },
+    "summaryHTML" : "<p>The family Stercorariidae are, in general, medium to large birds, typically with gray or brown plumage, often with white markings on the wings. They nest on the ground in temperate and arctic regions and are long-distance migrants. <\/p>"
+  },
+  {
+    "summary" : "Laridae is a family of medium to large seabirds and includes gulls, kittiwakes, terns, and skimmers. They are typically gray or white, often with black markings on the head or wings. They have longish bills and webbed feet. Terns are a group of generally medium to large seabirds typically with gray or white plumage, often with black markings on the head. Most terns hunt fish by diving but some pick insects off the surface of fresh water. Terns are generally long-lived birds, with several species known to live in excess of 30 years. Skimmers are a small family of tropical tern-like birds. They have an elongated lower mandible which they use to feed by flying low over the water surface and skimming the water for small fish.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Swallow-tailed gull",
@@ -1946,32 +1836,25 @@
         "latin" : "Rynchops niger"
       }
     ],
+    "order" : {
+      "name" : "Charadriiformes",
+      "link" : "\/wiki\/Charadriiformes"
+    },
     "category" : "Gulls, terns, and skimmers",
     "family" : {
       "name" : "Laridae",
       "link" : "\/wiki\/Laridae"
-    }
+    },
+    "summaryHTML" : "<p>Laridae is a family of medium to large seabirds and includes <a href=\"\/wiki\/Gull\" title=\"Gull\">gulls<\/a>, <a href=\"\/wiki\/Kittiwake\" title=\"Kittiwake\">kittiwakes<\/a>, <a href=\"\/wiki\/Terns\" class=\"mw-redirect\" title=\"Terns\">terns<\/a>, and <a href=\"\/wiki\/Skimmer_(bird)\" class=\"mw-redirect\" title=\"Skimmer (bird)\">skimmers<\/a>. They are typically gray or white, often with black markings on the head or wings. They have longish bills and webbed feet. Terns are a group of generally medium to large seabirds typically with gray or white plumage, often with black markings on the head. Most terns hunt fish by diving but some pick insects off the surface of fresh water. Terns are generally long-lived birds, with several species known to live in excess of 30 years. Skimmers are a small family of tropical tern-like birds. They have an elongated lower mandible which they use to feed by flying low over the water surface and skimming the water for small fish. <\/p>"
   },
   {
-    "summary" : "<p>The sunbittern is a <a href=\"\/wiki\/Bittern\" title=\"Bittern\">bittern<\/a>-like bird of tropical regions of the Americas and the sole member of the family Eurypygidae (sometimes spelled Eurypigidae) and genus <i>Eurypyga<\/i>. <\/p>",
+    "summary" : "The sunbittern is a bittern-like bird of tropical regions of the Americas and the sole member of the family Eurypygidae (sometimes spelled Eurypigidae) and genus Eurypyga.",
     "images" : [
       {
         "title" : "Sunbittern",
-        "img" : {
-          "height" : "360",
-          "dataFileWidth" : "480",
-          "dataFileHeight" : "360",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/69\/Stavenn_Eurypiga_helias_00.jpg\/300px-Stavenn_Eurypiga_helias_00.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/69\/Stavenn_Eurypiga_helias_00.jpg\/400px-Stavenn_Eurypiga_helias_00.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/69\/Stavenn_Eurypiga_helias_00.jpg\/200px-Stavenn_Eurypiga_helias_00.jpg",
-          "width" : "480"
-        },
-        "filehref" : "\/wiki\/File:Stavenn_Eurypiga_helias_00.jpg"
+        "filename" : "File:Stavenn_Eurypiga_helias_00.jpg"
       }
     ],
-    "order" : {
-      "name" : "Eurypygiformes",
-      "link" : "\/wiki\/Eurypygiformes"
-    },
     "birds" : [
       {
         "name" : "Sunbittern",
@@ -1979,21 +1862,22 @@
         "latin" : "Eurypyga helias"
       }
     ],
+    "order" : {
+      "name" : "Eurypygiformes",
+      "link" : "\/wiki\/Eurypygiformes"
+    },
     "category" : "Sunbittern",
     "family" : {
       "name" : "Eurypygidae",
       "link" : "\/wiki\/Eurypygidae"
-    }
+    },
+    "summaryHTML" : "<p>The sunbittern is a <a href=\"\/wiki\/Bittern\" title=\"Bittern\">bittern<\/a>-like bird of tropical regions of the Americas and the sole member of the family Eurypygidae (sometimes spelled Eurypigidae) and genus <i>Eurypyga<\/i>. <\/p>"
   },
   {
-    "summary" : "<p><a href=\"\/wiki\/Tropicbird\" title=\"Tropicbird\">Tropicbirds<\/a> are slender white birds of tropical oceans which have exceptionally long central tail feathers. Their heads and long wings have black markings. <\/p>",
+    "summary" : "Tropicbirds are slender white birds of tropical oceans which have exceptionally long central tail feathers. Their heads and long wings have black markings.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Phaethontiformes",
-      "link" : "\/wiki\/Phaethontiformes"
-    },
     "birds" : [
       {
         "latin" : "Phaethon lepturus",
@@ -2013,21 +1897,22 @@
         "link" : "\/wiki\/Red-tailed_tropicbird"
       }
     ],
+    "order" : {
+      "name" : "Phaethontiformes",
+      "link" : "\/wiki\/Phaethontiformes"
+    },
     "category" : "Tropicbirds",
     "family" : {
       "name" : "Phaethontidae",
       "link" : "\/wiki\/Phaethontidae"
-    }
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Tropicbird\" title=\"Tropicbird\">Tropicbirds<\/a> are slender white birds of tropical oceans which have exceptionally long central tail feathers. Their heads and long wings have black markings. <\/p>"
   },
   {
-    "summary" : "<p>The albatrosses are among the largest of flying birds, and the great albatrosses from the genus <i>Diomedea<\/i> have the largest wingspans of any extant birds. <\/p>",
+    "summary" : "The albatrosses are among the largest of flying birds, and the great albatrosses from the genus Diomedea have the largest wingspans of any extant birds.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Procellariiformes",
-      "link" : "\/wiki\/Procellariiformes"
-    },
     "birds" : [
       {
         "name" : "Waved albatross",
@@ -2035,21 +1920,22 @@
         "latin" : "Phoebastria irrorata"
       }
     ],
-    "category" : "Albatrosses",
-    "family" : {
-      "name" : "Diomedeidae",
-      "link" : "\/wiki\/Diomedeidae"
-    }
-  },
-  {
-    "summary" : "<p>The storm-petrels are the smallest seabirds, relatives of the <a href=\"\/wiki\/Petrel\" title=\"Petrel\">petrels<\/a>, feeding on <a href=\"\/wiki\/Plankton\" title=\"Plankton\">planktonic<\/a> crustaceans and small fish picked from the surface, typically while hovering. The flight is fluttering and sometimes <a href=\"\/wiki\/Bat\" title=\"Bat\">bat<\/a>-like. Until 2018, this family's three species were included with the other storm-petrels in family Hydrobatidae. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Procellariiformes",
       "link" : "\/wiki\/Procellariiformes"
     },
+    "category" : "Albatrosses",
+    "family" : {
+      "name" : "Diomedeidae",
+      "link" : "\/wiki\/Diomedeidae"
+    },
+    "summaryHTML" : "<p>The albatrosses are among the largest of flying birds, and the great albatrosses from the genus <i>Diomedea<\/i> have the largest wingspans of any extant birds. <\/p>"
+  },
+  {
+    "summary" : "The storm-petrels are the smallest seabirds, relatives of the petrels, feeding on planktonic crustaceans and small fish picked from the surface, typically while hovering. The flight is fluttering and sometimes bat-like. Until 2018, this family's three species were included with the other storm-petrels in family Hydrobatidae.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Wilson's storm-petrel",
@@ -2062,21 +1948,22 @@
         "latin" : "Pelagodroma marina"
       }
     ],
-    "category" : "Southern storm-petrels",
-    "family" : {
-      "name" : "Oceanitidae",
-      "link" : "\/wiki\/Oceanitidae"
-    }
-  },
-  {
-    "summary" : "<p>Though the members of this family are similar in many respects to the southern storm-petrels, including their general appearance and habits, there are enough genetic differences to warrant their placement in a separate family. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Procellariiformes",
       "link" : "\/wiki\/Procellariiformes"
     },
+    "category" : "Southern storm-petrels",
+    "family" : {
+      "name" : "Oceanitidae",
+      "link" : "\/wiki\/Oceanitidae"
+    },
+    "summaryHTML" : "<p>The storm-petrels are the smallest seabirds, relatives of the <a href=\"\/wiki\/Petrel\" title=\"Petrel\">petrels<\/a>, feeding on <a href=\"\/wiki\/Plankton\" title=\"Plankton\">planktonic<\/a> crustaceans and small fish picked from the surface, typically while hovering. The flight is fluttering and sometimes <a href=\"\/wiki\/Bat\" title=\"Bat\">bat<\/a>-like. Until 2018, this family's three species were included with the other storm-petrels in family Hydrobatidae. <\/p>"
+  },
+  {
+    "summary" : "Though the members of this family are similar in many respects to the southern storm-petrels, including their general appearance and habits, there are enough genetic differences to warrant their placement in a separate family.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Leach's storm-petrel",
@@ -2110,21 +1997,22 @@
         "latin" : "Hydrobates microsoma"
       }
     ],
-    "category" : "Northern storm-petrels",
-    "family" : {
-      "name" : "Hydrobatidae",
-      "link" : "\/wiki\/Hydrobatidae"
-    }
-  },
-  {
-    "summary" : "<p>The procellariids are the main group of medium-sized \"true petrels\", characterized by united nostrils with medium septum and a long outer functional primary. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Procellariiformes",
       "link" : "\/wiki\/Procellariiformes"
     },
+    "category" : "Northern storm-petrels",
+    "family" : {
+      "name" : "Hydrobatidae",
+      "link" : "\/wiki\/Hydrobatidae"
+    },
+    "summaryHTML" : "<p>Though the members of this family are similar in many respects to the southern storm-petrels, including their general appearance and habits, there are enough genetic differences to warrant their placement in a separate family. <\/p>"
+  },
+  {
+    "summary" : "The procellariids are the main group of medium-sized \"true petrels\", characterized by united nostrils with medium septum and a long outer functional primary.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "latin" : "Pterodroma hasitata",
@@ -2208,32 +2096,25 @@
         "latin" : "Puffinus lherminieri"
       }
     ],
+    "order" : {
+      "name" : "Procellariiformes",
+      "link" : "\/wiki\/Procellariiformes"
+    },
     "category" : "Shearwaters and petrels",
     "family" : {
       "name" : "Procellariidae",
       "link" : "\/wiki\/Procellariidae"
-    }
+    },
+    "summaryHTML" : "<p>The procellariids are the main group of medium-sized \"true petrels\", characterized by united nostrils with medium septum and a long outer functional primary. <\/p>"
   },
   {
-    "summary" : "<p>Storks are large, long-legged, long-necked wading birds with long, stout bills. Storks are mute, but bill-clattering is an important mode of communication at the nest. Their nests can be large and may be reused for many years. Many species are migratory. <\/p>",
+    "summary" : "Storks are large, long-legged, long-necked wading birds with long, stout bills. Storks are mute, but bill-clattering is an important mode of communication at the nest. Their nests can be large and may be reused for many years. Many species are migratory.",
     "images" : [
       {
         "title" : "Wood stork",
-        "img" : {
-          "height" : "626",
-          "dataFileWidth" : "757",
-          "dataFileHeight" : "626",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/18\/Woodstork17.jpg\/300px-Woodstork17.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/18\/Woodstork17.jpg\/400px-Woodstork17.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/18\/Woodstork17.jpg\/200px-Woodstork17.jpg",
-          "width" : "757"
-        },
-        "filehref" : "\/wiki\/File:Woodstork17.jpg"
+        "filename" : "File:Woodstork17.jpg"
       }
     ],
-    "order" : {
-      "name" : "Ciconiiformes",
-      "link" : "\/wiki\/Ciconiiformes"
-    },
     "birds" : [
       {
         "latin" : "Ciconia maguari",
@@ -2252,32 +2133,25 @@
         "latin" : "Mycteria americana"
       }
     ],
+    "order" : {
+      "name" : "Ciconiiformes",
+      "link" : "\/wiki\/Ciconiiformes"
+    },
     "category" : "Storks",
     "family" : {
       "name" : "Ciconiidae",
       "link" : "\/wiki\/Ciconiidae"
-    }
+    },
+    "summaryHTML" : "<p>Storks are large, long-legged, long-necked wading birds with long, stout bills. Storks are mute, but bill-clattering is an important mode of communication at the nest. Their nests can be large and may be reused for many years. Many species are migratory. <\/p>"
   },
   {
-    "summary" : "<p><a href=\"\/wiki\/Frigatebird\" title=\"Frigatebird\">Frigatebirds<\/a> are large seabirds usually found over tropical oceans. They are large, black-and-white or completely black, with long wings and deeply forked tails. The males have colored inflatable throat pouches. They do not swim or walk and cannot take off from a flat surface. Having the largest wingspan-to-body-weight ratio of any bird, they are essentially aerial, able to stay aloft for more than a week. <\/p>",
+    "summary" : "Frigatebirds are large seabirds usually found over tropical oceans. They are large, black-and-white or completely black, with long wings and deeply forked tails. The males have colored inflatable throat pouches. They do not swim or walk and cannot take off from a flat surface. Having the largest wingspan-to-body-weight ratio of any bird, they are essentially aerial, able to stay aloft for more than a week.",
     "images" : [
       {
         "title" : "Magnificent frigatebird",
-        "img" : {
-          "height" : "2404",
-          "dataFileWidth" : "3304",
-          "dataFileHeight" : "2404",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8e\/Femalefbird.jpg\/330px-Femalefbird.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8e\/Femalefbird.jpg\/440px-Femalefbird.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8e\/Femalefbird.jpg\/220px-Femalefbird.jpg",
-          "width" : "3304"
-        },
-        "filehref" : "\/wiki\/File:Femalefbird.jpg"
+        "filename" : "File:Femalefbird.jpg"
       }
     ],
-    "order" : {
-      "name" : "Suliformes",
-      "link" : "\/wiki\/Suliformes"
-    },
     "birds" : [
       {
         "name" : "Magnificent frigatebird",
@@ -2290,21 +2164,22 @@
         "latin" : "Fregata minor"
       }
     ],
-    "category" : "Frigatebirds",
-    "family" : {
-      "name" : "Fregatidae",
-      "link" : "\/wiki\/Fregatidae"
-    }
-  },
-  {
-    "summary" : "<p>The sulids comprise the <a href=\"\/wiki\/Gannet\" title=\"Gannet\">gannets<\/a> and <a href=\"\/wiki\/Booby\" title=\"Booby\">boobies<\/a>. Both groups are medium to large coastal seabirds that plunge-dive for fish. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Suliformes",
       "link" : "\/wiki\/Suliformes"
     },
+    "category" : "Frigatebirds",
+    "family" : {
+      "name" : "Fregatidae",
+      "link" : "\/wiki\/Fregatidae"
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Frigatebird\" title=\"Frigatebird\">Frigatebirds<\/a> are large seabirds usually found over tropical oceans. They are large, black-and-white or completely black, with long wings and deeply forked tails. The males have colored inflatable throat pouches. They do not swim or walk and cannot take off from a flat surface. Having the largest wingspan-to-body-weight ratio of any bird, they are essentially aerial, able to stay aloft for more than a week. <\/p>"
+  },
+  {
+    "summary" : "The sulids comprise the gannets and boobies. Both groups are medium to large coastal seabirds that plunge-dive for fish.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Masked booby",
@@ -2339,21 +2214,22 @@
         "latin" : "Sula sula"
       }
     ],
-    "category" : "Boobies and gannets",
-    "family" : {
-      "name" : "Sulidae",
-      "link" : "\/wiki\/Sulidae"
-    }
-  },
-  {
-    "summary" : "<p><a href=\"\/wiki\/Darters\" class=\"mw-redirect\" title=\"Darters\">Anhingas<\/a> are often called \"snake-birds\" because of their long thin neck, which gives a snake-like appearance when they swim with their bodies submerged. The males have black and dark-brown plumage, an erectile crest on the nape, and a larger bill than the female. The females have much paler plumage especially on the neck and underparts. The anhingas have completely webbed feet and their legs are short and set far back on the body. Their plumage is somewhat permeable, like that of cormorants, and they spread their wings to dry after diving. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Suliformes",
       "link" : "\/wiki\/Suliformes"
     },
+    "category" : "Boobies and gannets",
+    "family" : {
+      "name" : "Sulidae",
+      "link" : "\/wiki\/Sulidae"
+    },
+    "summaryHTML" : "<p>The sulids comprise the <a href=\"\/wiki\/Gannet\" title=\"Gannet\">gannets<\/a> and <a href=\"\/wiki\/Booby\" title=\"Booby\">boobies<\/a>. Both groups are medium to large coastal seabirds that plunge-dive for fish. <\/p>"
+  },
+  {
+    "summary" : "Anhingas are often called \"snake-birds\" because of their long thin neck, which gives a snake-like appearance when they swim with their bodies submerged. The males have black and dark-brown plumage, an erectile crest on the nape, and a larger bill than the female. The females have much paler plumage especially on the neck and underparts. The anhingas have completely webbed feet and their legs are short and set far back on the body. Their plumage is somewhat permeable, like that of cormorants, and they spread their wings to dry after diving.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Anhinga",
@@ -2361,21 +2237,22 @@
         "latin" : "Anhinga anhinga"
       }
     ],
-    "category" : "Anhingas",
-    "family" : {
-      "name" : "Anhingidae",
-      "link" : "\/wiki\/Anhingidae"
-    }
-  },
-  {
-    "summary" : "<p>Phalacrocoracidae is a family of medium to large coastal, fish-eating seabirds that includes cormorants and shags. Plumage coloration varies, with the majority having mainly dark plumage, some species being black-and-white, and a few being colorful. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Suliformes",
       "link" : "\/wiki\/Suliformes"
     },
+    "category" : "Anhingas",
+    "family" : {
+      "name" : "Anhingidae",
+      "link" : "\/wiki\/Anhingidae"
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Darters\" class=\"mw-redirect\" title=\"Darters\">Anhingas<\/a> are often called \"snake-birds\" because of their long thin neck, which gives a snake-like appearance when they swim with their bodies submerged. The males have black and dark-brown plumage, an erectile crest on the nape, and a larger bill than the female. The females have much paler plumage especially on the neck and underparts. The anhingas have completely webbed feet and their legs are short and set far back on the body. Their plumage is somewhat permeable, like that of cormorants, and they spread their wings to dry after diving. <\/p>"
+  },
+  {
+    "summary" : "Phalacrocoracidae is a family of medium to large coastal, fish-eating seabirds that includes cormorants and shags. Plumage coloration varies, with the majority having mainly dark plumage, some species being black-and-white, and a few being colorful.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Neotropic cormorant",
@@ -2383,21 +2260,22 @@
         "latin" : "Phalacrocorax brasilianus"
       }
     ],
+    "order" : {
+      "name" : "Suliformes",
+      "link" : "\/wiki\/Suliformes"
+    },
     "category" : "Cormorants and shags",
     "family" : {
       "name" : "Phalacrocoracidae",
       "link" : "\/wiki\/Phalacrocoracidae"
-    }
+    },
+    "summaryHTML" : "<p>Phalacrocoracidae is a family of medium to large coastal, fish-eating seabirds that includes cormorants and shags. Plumage coloration varies, with the majority having mainly dark plumage, some species being black-and-white, and a few being colorful. <\/p>"
   },
   {
-    "summary" : "<p><a href=\"\/wiki\/Pelican\" title=\"Pelican\">Pelicans<\/a> are large water birds with a distinctive pouch under their beak. As with other members of the order Pelecaniformes, they have webbed feet with four toes. <\/p>",
+    "summary" : "Pelicans are large water birds with a distinctive pouch under their beak. As with other members of the order Pelecaniformes, they have webbed feet with four toes.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Pelecaniformes",
-      "link" : "\/wiki\/Pelecaniformes"
-    },
     "birds" : [
       {
         "latin" : "Pelecanus erythrorhynchos",
@@ -2411,32 +2289,25 @@
         "latin" : "Pelecanus occidentalis"
       }
     ],
-    "category" : "Pelicans",
-    "family" : {
-      "name" : "Pelecanidae",
-      "link" : "\/wiki\/Pelecanidae"
-    }
-  },
-  {
-    "summary" : "<p>The family Ardeidae contains the <a href=\"\/wiki\/Bittern\" title=\"Bittern\">bitterns<\/a>, <a href=\"\/wiki\/Heron\" title=\"Heron\">herons<\/a>, and <a href=\"\/wiki\/Egret\" title=\"Egret\">egrets<\/a>. Herons and egrets are medium to large wading birds with long necks and legs. Bitterns tend to be shorter necked and more wary. Members of Ardeidae fly with their necks retracted, unlike other long-necked birds such as storks, ibises and spoonbills. <\/p>",
-    "images" : [
-      {
-        "title" : "Boat-billed heron",
-        "img" : {
-          "height" : "600",
-          "dataFileWidth" : "496",
-          "dataFileHeight" : "600",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/46\/Cochlearius_cochleariaPCCA20071227-8443B.jpg\/300px-Cochlearius_cochleariaPCCA20071227-8443B.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/46\/Cochlearius_cochleariaPCCA20071227-8443B.jpg\/400px-Cochlearius_cochleariaPCCA20071227-8443B.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/46\/Cochlearius_cochleariaPCCA20071227-8443B.jpg\/200px-Cochlearius_cochleariaPCCA20071227-8443B.jpg",
-          "width" : "496"
-        },
-        "filehref" : "\/wiki\/File:Cochlearius_cochleariaPCCA20071227-8443B.jpg"
-      }
-    ],
     "order" : {
       "name" : "Pelecaniformes",
       "link" : "\/wiki\/Pelecaniformes"
     },
+    "category" : "Pelicans",
+    "family" : {
+      "name" : "Pelecanidae",
+      "link" : "\/wiki\/Pelecanidae"
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Pelican\" title=\"Pelican\">Pelicans<\/a> are large water birds with a distinctive pouch under their beak. As with other members of the order Pelecaniformes, they have webbed feet with four toes. <\/p>"
+  },
+  {
+    "summary" : "The family Ardeidae contains the bitterns, herons, and egrets. Herons and egrets are medium to large wading birds with long necks and legs. Bitterns tend to be shorter necked and more wary. Members of Ardeidae fly with their necks retracted, unlike other long-necked birds such as storks, ibises and spoonbills.",
+    "images" : [
+      {
+        "title" : "Boat-billed heron",
+        "filename" : "File:Cochlearius_cochleariaPCCA20071227-8443B.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Pinnated bittern",
@@ -2541,21 +2412,22 @@
         "latin" : "Cochlearius cochlearius"
       }
     ],
-    "category" : "Herons, egrets, and bitterns",
-    "family" : {
-      "name" : "Ardeidae",
-      "link" : "\/wiki\/Ardeidae"
-    }
-  },
-  {
-    "summary" : "<p>Threskiornithidae is a family of large terrestrial and wading birds which includes the <a href=\"\/wiki\/Ibis\" title=\"Ibis\">ibises<\/a> and <a href=\"\/wiki\/Spoonbill\" title=\"Spoonbill\">spoonbills<\/a>. They have long, broad wings with 11 primary and about 20 secondary feathers. They are strong fliers and despite their size and weight, very capable soarers. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Pelecaniformes",
       "link" : "\/wiki\/Pelecaniformes"
     },
+    "category" : "Herons, egrets, and bitterns",
+    "family" : {
+      "name" : "Ardeidae",
+      "link" : "\/wiki\/Ardeidae"
+    },
+    "summaryHTML" : "<p>The family Ardeidae contains the <a href=\"\/wiki\/Bittern\" title=\"Bittern\">bitterns<\/a>, <a href=\"\/wiki\/Heron\" title=\"Heron\">herons<\/a>, and <a href=\"\/wiki\/Egret\" title=\"Egret\">egrets<\/a>. Herons and egrets are medium to large wading birds with long necks and legs. Bitterns tend to be shorter necked and more wary. Members of Ardeidae fly with their necks retracted, unlike other long-necked birds such as storks, ibises and spoonbills. <\/p>"
+  },
+  {
+    "summary" : "Threskiornithidae is a family of large terrestrial and wading birds which includes the ibises and spoonbills. They have long, broad wings with 11 primary and about 20 secondary feathers. They are strong fliers and despite their size and weight, very capable soarers.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "American white ibis",
@@ -2583,32 +2455,25 @@
         "latin" : "Platalea ajaja"
       }
     ],
+    "order" : {
+      "name" : "Pelecaniformes",
+      "link" : "\/wiki\/Pelecaniformes"
+    },
     "category" : "Ibises and spoonbills",
     "family" : {
       "name" : "Threskiornithidae",
       "link" : "\/wiki\/Threskiornithidae"
-    }
+    },
+    "summaryHTML" : "<p>Threskiornithidae is a family of large terrestrial and wading birds which includes the <a href=\"\/wiki\/Ibis\" title=\"Ibis\">ibises<\/a> and <a href=\"\/wiki\/Spoonbill\" title=\"Spoonbill\">spoonbills<\/a>. They have long, broad wings with 11 primary and about 20 secondary feathers. They are strong fliers and despite their size and weight, very capable soarers. <\/p>"
   },
   {
-    "summary" : "<p>The <a href=\"\/wiki\/New_World_vultures\" class=\"mw-redirect\" title=\"New World vultures\">New World vultures<\/a> are not closely related to <a href=\"\/wiki\/Old_World_vultures\" class=\"mw-redirect\" title=\"Old World vultures\">Old World vultures<\/a>, but superficially resemble them because of <a href=\"\/wiki\/Convergent_evolution\" title=\"Convergent evolution\">convergent evolution<\/a>. Like the Old World vultures, they are scavengers. However, unlike Old World vultures, which find carcasses by sight, New World vultures have a good sense of smell with which they locate <a href=\"\/wiki\/Carrion\" title=\"Carrion\">carrion<\/a>. <\/p>",
+    "summary" : "The New World vultures are not closely related to Old World vultures, but superficially resemble them because of convergent evolution. Like the Old World vultures, they are scavengers. However, unlike Old World vultures, which find carcasses by sight, New World vultures have a good sense of smell with which they locate carrion.",
     "images" : [
       {
         "title" : "Black vulture",
-        "img" : {
-          "height" : "500",
-          "dataFileWidth" : "500",
-          "dataFileHeight" : "500",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9d\/Coragyps-atratus-001.jpg\/330px-Coragyps-atratus-001.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9d\/Coragyps-atratus-001.jpg\/440px-Coragyps-atratus-001.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9d\/Coragyps-atratus-001.jpg\/220px-Coragyps-atratus-001.jpg",
-          "width" : "500"
-        },
-        "filehref" : "\/wiki\/File:Coragyps-atratus-001.jpg"
+        "filename" : "File:Coragyps-atratus-001.jpg"
       }
     ],
-    "order" : {
-      "name" : "Cathartiformes",
-      "link" : "\/wiki\/Cathartiformes"
-    },
     "birds" : [
       {
         "name" : "King vulture",
@@ -2631,21 +2496,22 @@
         "latin" : "Cathartes burrovianus"
       }
     ],
+    "order" : {
+      "name" : "Cathartiformes",
+      "link" : "\/wiki\/Cathartiformes"
+    },
     "category" : "New World vultures",
     "family" : {
       "name" : "Cathartidae",
       "link" : "\/wiki\/Cathartidae"
-    }
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/New_World_vultures\" class=\"mw-redirect\" title=\"New World vultures\">New World vultures<\/a> are not closely related to <a href=\"\/wiki\/Old_World_vultures\" class=\"mw-redirect\" title=\"Old World vultures\">Old World vultures<\/a>, but superficially resemble them because of <a href=\"\/wiki\/Convergent_evolution\" title=\"Convergent evolution\">convergent evolution<\/a>. Like the Old World vultures, they are scavengers. However, unlike Old World vultures, which find carcasses by sight, New World vultures have a good sense of smell with which they locate <a href=\"\/wiki\/Carrion\" title=\"Carrion\">carrion<\/a>. <\/p>"
   },
   {
-    "summary" : "<p>The family Pandionidae contains only one species, the osprey. The osprey is a medium-large <a href=\"\/wiki\/Bird_of_prey\" title=\"Bird of prey\">raptor<\/a> which is a specialist fish-eater with a worldwide distribution. <\/p>",
+    "summary" : "The family Pandionidae contains only one species, the osprey. The osprey is a medium-large raptor which is a specialist fish-eater with a worldwide distribution.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Accipitriformes",
-      "link" : "\/wiki\/Accipitriformes"
-    },
     "birds" : [
       {
         "name" : "Osprey",
@@ -2653,44 +2519,29 @@
         "latin" : "Pandion haliaetus"
       }
     ],
-    "category" : "Osprey",
-    "family" : {
-      "name" : "Pandionidae",
-      "link" : "\/wiki\/Pandionidae"
-    }
-  },
-  {
-    "summary" : "<p>Accipitridae is a family of birds of prey, which includes <a href=\"\/wiki\/Hawk\" title=\"Hawk\">hawks<\/a>, <a href=\"\/wiki\/Eagle\" title=\"Eagle\">eagles<\/a>, <a href=\"\/wiki\/Kite_(bird)\" title=\"Kite (bird)\">kites<\/a>, <a href=\"\/wiki\/Harrier_(bird)\" title=\"Harrier (bird)\">harriers<\/a>, and <a href=\"\/wiki\/Old_World_vulture\" title=\"Old World vulture\">Old World vultures<\/a>. These birds have powerful hooked beaks for tearing flesh from their prey, strong legs, powerful talons, and keen eyesight. <\/p>",
-    "images" : [
-      {
-        "title" : "Swallow-tailed kite",
-        "img" : {
-          "height" : "544",
-          "dataFileWidth" : "433",
-          "dataFileHeight" : "544",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/35\/Swallowtailedkite.jpg\/300px-Swallowtailedkite.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/35\/Swallowtailedkite.jpg\/400px-Swallowtailedkite.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/35\/Swallowtailedkite.jpg\/200px-Swallowtailedkite.jpg",
-          "width" : "433"
-        },
-        "filehref" : "\/wiki\/File:Swallowtailedkite.jpg"
-      },
-      {
-        "title" : "Gray-lined hawk",
-        "img" : {
-          "height" : "768",
-          "dataFileWidth" : "1024",
-          "dataFileHeight" : "768",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f3\/Buteo_nitidus%3B_buse_cendr%C3%A9e.jpg\/300px-Buteo_nitidus%3B_buse_cendr%C3%A9e.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f3\/Buteo_nitidus%3B_buse_cendr%C3%A9e.jpg\/400px-Buteo_nitidus%3B_buse_cendr%C3%A9e.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f3\/Buteo_nitidus%3B_buse_cendr%C3%A9e.jpg\/200px-Buteo_nitidus%3B_buse_cendr%C3%A9e.jpg",
-          "width" : "1024"
-        },
-        "filehref" : "\/wiki\/File:Buteo_nitidus;_buse_cendr%C3%A9e.jpg"
-      }
-    ],
     "order" : {
       "name" : "Accipitriformes",
       "link" : "\/wiki\/Accipitriformes"
     },
+    "category" : "Osprey",
+    "family" : {
+      "name" : "Pandionidae",
+      "link" : "\/wiki\/Pandionidae"
+    },
+    "summaryHTML" : "<p>The family Pandionidae contains only one species, the osprey. The osprey is a medium-large <a href=\"\/wiki\/Bird_of_prey\" title=\"Bird of prey\">raptor<\/a> which is a specialist fish-eater with a worldwide distribution. <\/p>"
+  },
+  {
+    "summary" : "Accipitridae is a family of birds of prey, which includes hawks, eagles, kites, harriers, and Old World vultures. These birds have powerful hooked beaks for tearing flesh from their prey, strong legs, powerful talons, and keen eyesight.",
+    "images" : [
+      {
+        "title" : "Swallow-tailed kite",
+        "filename" : "File:Swallowtailedkite.jpg"
+      },
+      {
+        "title" : "Gray-lined hawk",
+        "filename" : "File:Buteo_nitidus;_buse_cendr%C3%A9e.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Pearl kite",
@@ -2889,21 +2740,22 @@
         "latin" : "Buteo jamaicensis"
       }
     ],
+    "order" : {
+      "name" : "Accipitriformes",
+      "link" : "\/wiki\/Accipitriformes"
+    },
     "category" : "Hawks, eagles, and kites",
     "family" : {
       "name" : "Accipitridae",
       "link" : "\/wiki\/Accipitridae"
-    }
+    },
+    "summaryHTML" : "<p>Accipitridae is a family of birds of prey, which includes <a href=\"\/wiki\/Hawk\" title=\"Hawk\">hawks<\/a>, <a href=\"\/wiki\/Eagle\" title=\"Eagle\">eagles<\/a>, <a href=\"\/wiki\/Kite_(bird)\" title=\"Kite (bird)\">kites<\/a>, <a href=\"\/wiki\/Harrier_(bird)\" title=\"Harrier (bird)\">harriers<\/a>, and <a href=\"\/wiki\/Old_World_vulture\" title=\"Old World vulture\">Old World vultures<\/a>. These birds have powerful hooked beaks for tearing flesh from their prey, strong legs, powerful talons, and keen eyesight. <\/p>"
   },
   {
-    "summary" : "<p><a href=\"\/wiki\/Barn_owl\" title=\"Barn owl\">Barn-owls<\/a> are medium to large owls with large heads and characteristic heart-shaped faces. They have long strong legs with powerful talons. <\/p>",
+    "summary" : "Barn-owls are medium to large owls with large heads and characteristic heart-shaped faces. They have long strong legs with powerful talons.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Strigiformes",
-      "link" : "\/wiki\/Strigiformes"
-    },
     "birds" : [
       {
         "name" : "Barn owl",
@@ -2911,32 +2763,25 @@
         "latin" : "Tyto alba"
       }
     ],
-    "category" : "Barn-owls",
-    "family" : {
-      "name" : "Tytonidae",
-      "link" : "\/wiki\/Tytonidae"
-    }
-  },
-  {
-    "summary" : "<p>The <a href=\"\/wiki\/Typical_owl\" class=\"mw-redirect\" title=\"Typical owl\">typical owls<\/a> are small to large solitary nocturnal birds of prey. They have large forward-facing eyes and ears, a hawk-like beak, and a conspicuous circle of feathers around each eye called a facial disk. <\/p>",
-    "images" : [
-      {
-        "title" : "Black-and-white owl",
-        "img" : {
-          "height" : "2214",
-          "dataFileWidth" : "1829",
-          "dataFileHeight" : "2214",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/03\/Black-and-white_Owl.jpg\/300px-Black-and-white_Owl.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/03\/Black-and-white_Owl.jpg\/400px-Black-and-white_Owl.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/03\/Black-and-white_Owl.jpg\/200px-Black-and-white_Owl.jpg",
-          "width" : "1829"
-        },
-        "filehref" : "\/wiki\/File:Black-and-white_Owl.jpg"
-      }
-    ],
     "order" : {
       "name" : "Strigiformes",
       "link" : "\/wiki\/Strigiformes"
     },
+    "category" : "Barn-owls",
+    "family" : {
+      "name" : "Tytonidae",
+      "link" : "\/wiki\/Tytonidae"
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Barn_owl\" title=\"Barn owl\">Barn-owls<\/a> are medium to large owls with large heads and characteristic heart-shaped faces. They have long strong legs with powerful talons. <\/p>"
+  },
+  {
+    "summary" : "The typical owls are small to large solitary nocturnal birds of prey. They have large forward-facing eyes and ears, a hawk-like beak, and a conspicuous circle of feathers around each eye called a facial disk.",
+    "images" : [
+      {
+        "title" : "Black-and-white owl",
+        "filename" : "File:Black-and-white_Owl.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Bare-shanked screech-owl",
@@ -3022,32 +2867,25 @@
         "latin" : "Aegolius ridgwayi"
       }
     ],
+    "order" : {
+      "name" : "Strigiformes",
+      "link" : "\/wiki\/Strigiformes"
+    },
     "category" : "Owls",
     "family" : {
       "name" : "Strigidae",
       "link" : "\/wiki\/Strigidae"
-    }
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/Typical_owl\" class=\"mw-redirect\" title=\"Typical owl\">typical owls<\/a> are small to large solitary nocturnal birds of prey. They have large forward-facing eyes and ears, a hawk-like beak, and a conspicuous circle of feathers around each eye called a facial disk. <\/p>"
   },
   {
-    "summary" : "<p>The family Trogonidae includes trogons and quetzals. Found in tropical woodlands worldwide, they feed on insects and fruit, and their broad bills and weak legs reflect their diet and arboreal habits. Although their flight is fast, they are reluctant to fly any distance. Trogons have soft, often colorful, feathers with distinctive male and female plumage. <\/p>",
+    "summary" : "The family Trogonidae includes trogons and quetzals. Found in tropical woodlands worldwide, they feed on insects and fruit, and their broad bills and weak legs reflect their diet and arboreal habits. Although their flight is fast, they are reluctant to fly any distance. Trogons have soft, often colorful, feathers with distinctive male and female plumage.",
     "images" : [
       {
         "title" : "Black-throated trogon",
-        "img" : {
-          "height" : "1524",
-          "dataFileWidth" : "1122",
-          "dataFileHeight" : "1524",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2a\/Black-throated_Trogon.jpg\/300px-Black-throated_Trogon.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2a\/Black-throated_Trogon.jpg\/400px-Black-throated_Trogon.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2a\/Black-throated_Trogon.jpg\/200px-Black-throated_Trogon.jpg",
-          "width" : "1122"
-        },
-        "filehref" : "\/wiki\/File:Black-throated_Trogon.jpg"
+        "filename" : "File:Black-throated_Trogon.jpg"
       }
     ],
-    "order" : {
-      "name" : "Trogoniformes",
-      "link" : "\/wiki\/Trogoniformes"
-    },
     "birds" : [
       {
         "latin" : "Trogon clathratus",
@@ -3097,32 +2935,25 @@
         "latin" : "Pharomachrus mocinno"
       }
     ],
+    "order" : {
+      "name" : "Trogoniformes",
+      "link" : "\/wiki\/Trogoniformes"
+    },
     "category" : "Trogons",
     "family" : {
       "name" : "Trogonidae",
       "link" : "\/wiki\/Trogonidae"
-    }
+    },
+    "summaryHTML" : "<p>The family Trogonidae includes trogons and quetzals. Found in tropical woodlands worldwide, they feed on insects and fruit, and their broad bills and weak legs reflect their diet and arboreal habits. Although their flight is fast, they are reluctant to fly any distance. Trogons have soft, often colorful, feathers with distinctive male and female plumage. <\/p>"
   },
   {
-    "summary" : "<p>The motmots have colorful plumage and long, graduated tails which they display by waggling back and forth. In most of the species, the barbs near the ends of the two longest (central) tail feathers are weak and fall off, leaving a length of bare shaft and creating a racket-shaped tail. <\/p>",
+    "summary" : "The motmots have colorful plumage and long, graduated tails which they display by waggling back and forth. In most of the species, the barbs near the ends of the two longest (central) tail feathers are weak and fall off, leaving a length of bare shaft and creating a racket-shaped tail.",
     "images" : [
       {
         "title" : "Lesson's motmot",
-        "img" : {
-          "height" : "1202",
-          "dataFileWidth" : "1600",
-          "dataFileHeight" : "1202",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/66\/Blue-crowned_Motmot_1.jpeg\/300px-Blue-crowned_Motmot_1.jpeg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/66\/Blue-crowned_Motmot_1.jpeg\/400px-Blue-crowned_Motmot_1.jpeg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/66\/Blue-crowned_Motmot_1.jpeg\/200px-Blue-crowned_Motmot_1.jpeg",
-          "width" : "1600"
-        },
-        "filehref" : "\/wiki\/File:Blue-crowned_Motmot_1.jpeg"
+        "filename" : "File:Blue-crowned_Motmot_1.jpeg"
       }
     ],
-    "order" : {
-      "name" : "Coraciiformes",
-      "link" : "\/wiki\/Coraciiformes"
-    },
     "birds" : [
       {
         "name" : "Tody motmot",
@@ -3155,21 +2986,22 @@
         "latin" : "Eumomota superciliosa"
       }
     ],
-    "category" : "Motmots",
-    "family" : {
-      "name" : "Momotidae",
-      "link" : "\/wiki\/Momotidae"
-    }
-  },
-  {
-    "summary" : "<p>Kingfishers are medium-sized birds with large heads, long, pointed bills, short legs, and stubby tails. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Coraciiformes",
       "link" : "\/wiki\/Coraciiformes"
     },
+    "category" : "Motmots",
+    "family" : {
+      "name" : "Momotidae",
+      "link" : "\/wiki\/Momotidae"
+    },
+    "summaryHTML" : "<p>The motmots have colorful plumage and long, graduated tails which they display by waggling back and forth. In most of the species, the barbs near the ends of the two longest (central) tail feathers are weak and fall off, leaving a length of bare shaft and creating a racket-shaped tail. <\/p>"
+  },
+  {
+    "summary" : "Kingfishers are medium-sized birds with large heads, long, pointed bills, short legs, and stubby tails.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Ringed kingfisher",
@@ -3202,21 +3034,22 @@
         "latin" : "Chloroceryle inda"
       }
     ],
+    "order" : {
+      "name" : "Coraciiformes",
+      "link" : "\/wiki\/Coraciiformes"
+    },
     "category" : "Kingfishers",
     "family" : {
       "name" : "Alcedinidae",
       "link" : "\/wiki\/Alcedinidae"
-    }
+    },
+    "summaryHTML" : "<p>Kingfishers are medium-sized birds with large heads, long, pointed bills, short legs, and stubby tails. <\/p>"
   },
   {
-    "summary" : "<p>The puffbirds are related to the jacamars and have the same range, but lack the iridescent colors of that family. They are mainly brown, <a href=\"\/wiki\/Rufous\" title=\"Rufous\">rufous<\/a>, or gray, with large heads and flattened bills with hooked tips. The loose abundant plumage and short tails makes them look stout and puffy, giving rise to the English common name of the family. <\/p>",
+    "summary" : "The puffbirds are related to the jacamars and have the same range, but lack the iridescent colors of that family. They are mainly brown, rufous, or gray, with large heads and flattened bills with hooked tips. The loose abundant plumage and short tails makes them look stout and puffy, giving rise to the English common name of the family.",
     "images" : [
 
     ],
-    "order" : {
-      "name" : "Piciformes",
-      "link" : "\/wiki\/Piciformes"
-    },
     "birds" : [
       {
         "name" : "White-necked puffbird",
@@ -3244,21 +3077,22 @@
         "latin" : "Monasa morphoeus"
       }
     ],
-    "category" : "Puffbirds",
-    "family" : {
-      "name" : "Bucconidae",
-      "link" : "\/wiki\/Bucconidae"
-    }
-  },
-  {
-    "summary" : "<p>The jacamars are near passerine birds from tropical South America, with a range that extends up to Mexico. They feed on insects caught on the wing, and are glossy, elegant birds with long bills and tails. In appearance and behavior they resemble the Old World <a href=\"\/wiki\/Bee-eater\" title=\"Bee-eater\">bee-eaters<\/a>, although they are more closely related to puffbirds. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Piciformes",
       "link" : "\/wiki\/Piciformes"
     },
+    "category" : "Puffbirds",
+    "family" : {
+      "name" : "Bucconidae",
+      "link" : "\/wiki\/Bucconidae"
+    },
+    "summaryHTML" : "<p>The puffbirds are related to the jacamars and have the same range, but lack the iridescent colors of that family. They are mainly brown, <a href=\"\/wiki\/Rufous\" title=\"Rufous\">rufous<\/a>, or gray, with large heads and flattened bills with hooked tips. The loose abundant plumage and short tails makes them look stout and puffy, giving rise to the English common name of the family. <\/p>"
+  },
+  {
+    "summary" : "The jacamars are near passerine birds from tropical South America, with a range that extends up to Mexico. They feed on insects caught on the wing, and are glossy, elegant birds with long bills and tails. In appearance and behavior they resemble the Old World bee-eaters, although they are more closely related to puffbirds.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Rufous-tailed jacamar",
@@ -3271,21 +3105,22 @@
         "latin" : "Jacamerops aureus"
       }
     ],
-    "category" : "Jacamars",
-    "family" : {
-      "name" : "Galbulidae",
-      "link" : "\/wiki\/Galbulidae"
-    }
-  },
-  {
-    "summary" : "<p>The barbets are plump birds, with short necks and large heads. They get their name from the bristles which fringe their heavy bills. Most species are brightly colored. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Piciformes",
       "link" : "\/wiki\/Piciformes"
     },
+    "category" : "Jacamars",
+    "family" : {
+      "name" : "Galbulidae",
+      "link" : "\/wiki\/Galbulidae"
+    },
+    "summaryHTML" : "<p>The jacamars are near passerine birds from tropical South America, with a range that extends up to Mexico. They feed on insects caught on the wing, and are glossy, elegant birds with long bills and tails. In appearance and behavior they resemble the Old World <a href=\"\/wiki\/Bee-eater\" title=\"Bee-eater\">bee-eaters<\/a>, although they are more closely related to puffbirds. <\/p>"
+  },
+  {
+    "summary" : "The barbets are plump birds, with short necks and large heads. They get their name from the bristles which fringe their heavy bills. Most species are brightly colored.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Red-headed barbet",
@@ -3293,21 +3128,22 @@
         "latin" : "Eubucco bourcierii"
       }
     ],
-    "category" : "New World barbets",
-    "family" : {
-      "name" : "Capitonidae",
-      "link" : "\/wiki\/Capitonidae"
-    }
-  },
-  {
-    "summary" : "<p>The toucan-barbets are birds of montane forests in the Neotropics. They are highly social and non-migratory. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Piciformes",
       "link" : "\/wiki\/Piciformes"
     },
+    "category" : "New World barbets",
+    "family" : {
+      "name" : "Capitonidae",
+      "link" : "\/wiki\/Capitonidae"
+    },
+    "summaryHTML" : "<p>The barbets are plump birds, with short necks and large heads. They get their name from the bristles which fringe their heavy bills. Most species are brightly colored. <\/p>"
+  },
+  {
+    "summary" : "The toucan-barbets are birds of montane forests in the Neotropics. They are highly social and non-migratory.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "latin" : "Semnornis frantzii",
@@ -3316,32 +3152,25 @@
         "link" : "\/wiki\/Prong-billed_barbet"
       }
     ],
-    "category" : "Toucan-barbets",
-    "family" : {
-      "name" : "Semnornithidae",
-      "link" : "\/wiki\/Semnornithidae"
-    }
-  },
-  {
-    "summary" : "<p>Toucans are near passerine birds from the <a href=\"\/wiki\/Neotropics\" class=\"mw-redirect\" title=\"Neotropics\">Neotropics<\/a>. They are brightly marked and have enormous, colorful bills which in some species amount to half their body length. <\/p>",
-    "images" : [
-      {
-        "title" : "Northern emerald-toucanet",
-        "img" : {
-          "height" : "683",
-          "dataFileWidth" : "1024",
-          "dataFileHeight" : "683",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/17\/20170504-IMG_7511-bewerktBPX-3.jpg\/300px-20170504-IMG_7511-bewerktBPX-3.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/17\/20170504-IMG_7511-bewerktBPX-3.jpg\/400px-20170504-IMG_7511-bewerktBPX-3.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/17\/20170504-IMG_7511-bewerktBPX-3.jpg\/200px-20170504-IMG_7511-bewerktBPX-3.jpg",
-          "width" : "1024"
-        },
-        "filehref" : "\/wiki\/File:20170504-IMG_7511-bewerktBPX-3.jpg"
-      }
-    ],
     "order" : {
       "name" : "Piciformes",
       "link" : "\/wiki\/Piciformes"
     },
+    "category" : "Toucan-barbets",
+    "family" : {
+      "name" : "Semnornithidae",
+      "link" : "\/wiki\/Semnornithidae"
+    },
+    "summaryHTML" : "<p>The toucan-barbets are birds of montane forests in the Neotropics. They are highly social and non-migratory. <\/p>"
+  },
+  {
+    "summary" : "Toucans are near passerine birds from the Neotropics. They are brightly marked and have enormous, colorful bills which in some species amount to half their body length.",
+    "images" : [
+      {
+        "title" : "Northern emerald-toucanet",
+        "filename" : "File:20170504-IMG_7511-bewerktBPX-3.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Northern emerald-toucanet",
@@ -3375,32 +3204,25 @@
         "latin" : "Ramphastos ambiguus"
       }
     ],
-    "category" : "Toucans",
-    "family" : {
-      "name" : "Ramphastidae",
-      "link" : "\/wiki\/Ramphastidae"
-    }
-  },
-  {
-    "summary" : "<p>Woodpeckers are small to medium-sized birds with chisel-like beaks, short legs, stiff tails, and long tongues used for capturing insects. Some species have feet with two toes pointing forward and two backward, while several species have only three toes. Many woodpeckers have the habit of tapping noisily on tree trunks with their beaks. <\/p>",
-    "images" : [
-      {
-        "title" : "Black-cheeked woodpecker",
-        "img" : {
-          "height" : "2094",
-          "dataFileWidth" : "1578",
-          "dataFileHeight" : "2094",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c2\/Black-cheeked_Woodpecker.jpg\/300px-Black-cheeked_Woodpecker.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c2\/Black-cheeked_Woodpecker.jpg\/400px-Black-cheeked_Woodpecker.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c2\/Black-cheeked_Woodpecker.jpg\/200px-Black-cheeked_Woodpecker.jpg",
-          "width" : "1578"
-        },
-        "filehref" : "\/wiki\/File:Black-cheeked_Woodpecker.jpg"
-      }
-    ],
     "order" : {
       "name" : "Piciformes",
       "link" : "\/wiki\/Piciformes"
     },
+    "category" : "Toucans",
+    "family" : {
+      "name" : "Ramphastidae",
+      "link" : "\/wiki\/Ramphastidae"
+    },
+    "summaryHTML" : "<p>Toucans are near passerine birds from the <a href=\"\/wiki\/Neotropics\" class=\"mw-redirect\" title=\"Neotropics\">Neotropics<\/a>. They are brightly marked and have enormous, colorful bills which in some species amount to half their body length. <\/p>"
+  },
+  {
+    "summary" : "Woodpeckers are small to medium-sized birds with chisel-like beaks, short legs, stiff tails, and long tongues used for capturing insects. Some species have feet with two toes pointing forward and two backward, while several species have only three toes. Many woodpeckers have the habit of tapping noisily on tree trunks with their beaks.",
+    "images" : [
+      {
+        "title" : "Black-cheeked woodpecker",
+        "filename" : "File:Black-cheeked_Woodpecker.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Olivaceous piculet",
@@ -3485,32 +3307,25 @@
         "latin" : "Campephilus guatemalensis"
       }
     ],
+    "order" : {
+      "name" : "Piciformes",
+      "link" : "\/wiki\/Piciformes"
+    },
     "category" : "Woodpeckers",
     "family" : {
       "name" : "Picidae",
       "link" : "\/wiki\/Picidae"
-    }
+    },
+    "summaryHTML" : "<p>Woodpeckers are small to medium-sized birds with chisel-like beaks, short legs, stiff tails, and long tongues used for capturing insects. Some species have feet with two toes pointing forward and two backward, while several species have only three toes. Many woodpeckers have the habit of tapping noisily on tree trunks with their beaks. <\/p>"
   },
   {
-    "summary" : "<p>Falconidae is a family of diurnal birds of prey. They differ from hawks, eagles, and kites in that they kill with their beaks instead of their talons. <\/p>",
+    "summary" : "Falconidae is a family of diurnal birds of prey. They differ from hawks, eagles, and kites in that they kill with their beaks instead of their talons.",
     "images" : [
       {
         "title" : "Crested caracara",
-        "img" : {
-          "height" : "653",
-          "dataFileWidth" : "980",
-          "dataFileHeight" : "653",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4d\/Crested_Caracara.jpg\/300px-Crested_Caracara.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4d\/Crested_Caracara.jpg\/400px-Crested_Caracara.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4d\/Crested_Caracara.jpg\/200px-Crested_Caracara.jpg",
-          "width" : "980"
-        },
-        "filehref" : "\/wiki\/File:Crested_Caracara.jpg"
+        "filename" : "File:Crested_Caracara.jpg"
       }
     ],
-    "order" : {
-      "name" : "Falconiformes",
-      "link" : "\/wiki\/Falconiformes"
-    },
     "birds" : [
       {
         "name" : "Laughing falcon",
@@ -3579,32 +3394,25 @@
         "latin" : "Falco peregrinus"
       }
     ],
+    "order" : {
+      "name" : "Falconiformes",
+      "link" : "\/wiki\/Falconiformes"
+    },
     "category" : "Falcons and caracaras",
     "family" : {
       "name" : "Falconidae",
       "link" : "\/wiki\/Falconidae"
-    }
+    },
+    "summaryHTML" : "<p>Falconidae is a family of diurnal birds of prey. They differ from hawks, eagles, and kites in that they kill with their beaks instead of their talons. <\/p>"
   },
   {
-    "summary" : "<p><a href=\"\/wiki\/Parrot\" title=\"Parrot\">Parrots<\/a> are small to large birds with a characteristic curved beak. Their upper mandibles have slight mobility in the joint with the skull and they have a generally erect stance. All parrots are zygodactyl, having the four toes on each foot placed two at the front and two to the back. <\/p>",
+    "summary" : "Parrots are small to large birds with a characteristic curved beak. Their upper mandibles have slight mobility in the joint with the skull and they have a generally erect stance. All parrots are zygodactyl, having the four toes on each foot placed two at the front and two to the back.",
     "images" : [
       {
         "title" : "Scarlet macaw",
-        "img" : {
-          "height" : "839",
-          "dataFileWidth" : "600",
-          "dataFileHeight" : "839",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1f\/Belize54.JPG\/300px-Belize54.JPG 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1f\/Belize54.JPG\/400px-Belize54.JPG 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/1f\/Belize54.JPG\/200px-Belize54.JPG",
-          "width" : "600"
-        },
-        "filehref" : "\/wiki\/File:Belize54.JPG"
+        "filename" : "File:Belize54.JPG"
       }
     ],
-    "order" : {
-      "name" : "Psittaciformes",
-      "link" : "\/wiki\/Psittaciformes"
-    },
     "birds" : [
       {
         "latin" : "Pyrrhura hoffmanni",
@@ -3699,32 +3507,25 @@
         "link" : "\/wiki\/Yellow-crowned_Parrot"
       }
     ],
+    "order" : {
+      "name" : "Psittaciformes",
+      "link" : "\/wiki\/Psittaciformes"
+    },
     "category" : "New World and African parrots",
     "family" : {
       "name" : "Psittacidae",
       "link" : "\/wiki\/Psittacidae"
-    }
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Parrot\" title=\"Parrot\">Parrots<\/a> are small to large birds with a characteristic curved beak. Their upper mandibles have slight mobility in the joint with the skull and they have a generally erect stance. All parrots are zygodactyl, having the four toes on each foot placed two at the front and two to the back. <\/p>"
   },
   {
-    "summary" : "<p>The antbirds are a large family of small passerine birds of subtropical and tropical Central and South America. They are forest birds which tend to feed on insects at or near the ground. A sizable minority of them specialize in following columns of <a href=\"\/wiki\/Army_ant\" title=\"Army ant\">army ants<\/a> to eat small invertebrates that leave their hiding places to flee from the ants. Many species lack bright color, with brown, black, and white being the dominant tones. <\/p>",
+    "summary" : "The antbirds are a large family of small passerine birds of subtropical and tropical Central and South America. They are forest birds which tend to feed on insects at or near the ground. A sizable minority of them specialize in following columns of army ants to eat small invertebrates that leave their hiding places to flee from the ants. Many species lack bright color, with brown, black, and white being the dominant tones.",
     "images" : [
       {
         "title" : "Bicolored antbird",
-        "img" : {
-          "height" : "2048",
-          "dataFileWidth" : "2048",
-          "dataFileHeight" : "2048",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9d\/Gymnopithys-leucaspis-001_edit2.jpg\/330px-Gymnopithys-leucaspis-001_edit2.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9d\/Gymnopithys-leucaspis-001_edit2.jpg\/440px-Gymnopithys-leucaspis-001_edit2.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9d\/Gymnopithys-leucaspis-001_edit2.jpg\/220px-Gymnopithys-leucaspis-001_edit2.jpg",
-          "width" : "2048"
-        },
-        "filehref" : "\/wiki\/File:Gymnopithys-leucaspis-001_edit2.jpg"
+        "filename" : "File:Gymnopithys-leucaspis-001_edit2.jpg"
       }
     ],
-    "order" : {
-      "name" : "Passeriformes",
-      "link" : "\/wiki\/Passeriformes"
-    },
     "birds" : [
       {
         "name" : "Fasciated antshrike",
@@ -3838,21 +3639,22 @@
         "latin" : "Phaenostictus mcleannani"
       }
     ],
-    "category" : "Typical antbirds",
-    "family" : {
-      "name" : "Thamnophilidae",
-      "link" : "\/wiki\/Thamnophilidae"
-    }
-  },
-  {
-    "summary" : "<p>The members of this small family are found across northern South America and into Central America. They are forest birds, usually seen on the ground or in the low understory. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Typical antbirds",
+    "family" : {
+      "name" : "Thamnophilidae",
+      "link" : "\/wiki\/Thamnophilidae"
+    },
+    "summaryHTML" : "<p>The antbirds are a large family of small passerine birds of subtropical and tropical Central and South America. They are forest birds which tend to feed on insects at or near the ground. A sizable minority of them specialize in following columns of <a href=\"\/wiki\/Army_ant\" title=\"Army ant\">army ants<\/a> to eat small invertebrates that leave their hiding places to flee from the ants. Many species lack bright color, with brown, black, and white being the dominant tones. <\/p>"
+  },
+  {
+    "summary" : "The members of this small family are found across northern South America and into Central America. They are forest birds, usually seen on the ground or in the low understory.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Black-crowned antpitta",
@@ -3860,21 +3662,22 @@
         "latin" : "Pittasoma michleri"
       }
     ],
-    "category" : "Gnateaters",
-    "family" : {
-      "name" : "Conopophagidae",
-      "link" : "\/wiki\/Conopophagidae"
-    }
-  },
-  {
-    "summary" : "<p>Antpittas resemble the true <a href=\"\/wiki\/Pitta_(bird)\" class=\"mw-redirect\" title=\"Pitta (bird)\">pittas<\/a> with strong, longish legs, very short tails, and stout bills. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Gnateaters",
+    "family" : {
+      "name" : "Conopophagidae",
+      "link" : "\/wiki\/Conopophagidae"
+    },
+    "summaryHTML" : "<p>The members of this small family are found across northern South America and into Central America. They are forest birds, usually seen on the ground or in the low understory. <\/p>"
+  },
+  {
+    "summary" : "Antpittas resemble the true pittas with strong, longish legs, very short tails, and stout bills.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Scaled antpitta",
@@ -3897,21 +3700,22 @@
         "latin" : "Grallaricula flavirostris"
       }
     ],
-    "category" : "Antpittas",
-    "family" : {
-      "name" : "Grallariidae",
-      "link" : "\/wiki\/Grallariidae"
-    }
-  },
-  {
-    "summary" : "<p>The tapaculos are small <a href=\"\/wiki\/Suboscine\" class=\"mw-redirect\" title=\"Suboscine\">suboscine<\/a> passeriform birds with numerous species in South and Central America. They are terrestrial species that fly only poorly on their short wings. They have strong legs, well-suited to their habitat of grassland or forest undergrowth. The tail is cocked and pointed towards the head. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Antpittas",
+    "family" : {
+      "name" : "Grallariidae",
+      "link" : "\/wiki\/Grallariidae"
+    },
+    "summaryHTML" : "<p>Antpittas resemble the true <a href=\"\/wiki\/Pitta_(bird)\" class=\"mw-redirect\" title=\"Pitta (bird)\">pittas<\/a> with strong, longish legs, very short tails, and stout bills. <\/p>"
+  },
+  {
+    "summary" : "The tapaculos are small suboscine passeriform birds with numerous species in South and Central America. They are terrestrial species that fly only poorly on their short wings. They have strong legs, well-suited to their habitat of grassland or forest undergrowth. The tail is cocked and pointed towards the head.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "latin" : "Scytalopus argentifrons",
@@ -3920,21 +3724,22 @@
         "link" : "\/wiki\/Silvery-fronted_tapaculo"
       }
     ],
-    "category" : "Tapaculos",
-    "family" : {
-      "name" : "Rhinocryptidae",
-      "link" : "\/wiki\/Rhinocryptidae"
-    }
-  },
-  {
-    "summary" : "<p>Antthrushes resemble small rails with strong, longish legs, very short tails, and stout bills. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Tapaculos",
+    "family" : {
+      "name" : "Rhinocryptidae",
+      "link" : "\/wiki\/Rhinocryptidae"
+    },
+    "summaryHTML" : "<p>The tapaculos are small <a href=\"\/wiki\/Suboscine\" class=\"mw-redirect\" title=\"Suboscine\">suboscine<\/a> passeriform birds with numerous species in South and Central America. They are terrestrial species that fly only poorly on their short wings. They have strong legs, well-suited to their habitat of grassland or forest undergrowth. The tail is cocked and pointed towards the head. <\/p>"
+  },
+  {
+    "summary" : "Antthrushes resemble small rails with strong, longish legs, very short tails, and stout bills.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Black-faced antthrush",
@@ -3952,44 +3757,29 @@
         "latin" : "Formicarius rufipectus"
       }
     ],
-    "category" : "Antthrushes",
-    "family" : {
-      "name" : "Formicariidae",
-      "link" : "\/wiki\/Formicariidae"
-    }
-  },
-  {
-    "summary" : "<p>Ovenbirds comprise a large family of small <a href=\"\/wiki\/Sub-oscine\" class=\"mw-redirect\" title=\"Sub-oscine\">sub-oscine<\/a> passerine bird species found in Central and South America. They are a diverse group of insectivores which gets its name from the elaborate \"oven-like\" clay nests built by some species, although others build stick nests or nest in tunnels or clefts in rock. The woodcreepers are brownish birds which maintain an upright vertical posture supported by their stiff tail vanes. They feed mainly on insects taken from tree trunks. <\/p>",
-    "images" : [
-      {
-        "title" : "Streaked xenops",
-        "img" : {
-          "height" : "884",
-          "dataFileWidth" : "1024",
-          "dataFileHeight" : "884",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/16\/Xenops_rutilans.jpg\/300px-Xenops_rutilans.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/16\/Xenops_rutilans.jpg\/400px-Xenops_rutilans.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/16\/Xenops_rutilans.jpg\/200px-Xenops_rutilans.jpg",
-          "width" : "1024"
-        },
-        "filehref" : "\/wiki\/File:Xenops_rutilans.jpg"
-      },
-      {
-        "title" : "Spot-crowned woodcreeper",
-        "img" : {
-          "height" : "1446",
-          "dataFileWidth" : "1272",
-          "dataFileHeight" : "1446",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/95\/Spot-crowned_Woodcreeper.jpg\/300px-Spot-crowned_Woodcreeper.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/95\/Spot-crowned_Woodcreeper.jpg\/400px-Spot-crowned_Woodcreeper.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/95\/Spot-crowned_Woodcreeper.jpg\/200px-Spot-crowned_Woodcreeper.jpg",
-          "width" : "1272"
-        },
-        "filehref" : "\/wiki\/File:Spot-crowned_Woodcreeper.jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Antthrushes",
+    "family" : {
+      "name" : "Formicariidae",
+      "link" : "\/wiki\/Formicariidae"
+    },
+    "summaryHTML" : "<p>Antthrushes resemble small rails with strong, longish legs, very short tails, and stout bills. <\/p>"
+  },
+  {
+    "summary" : "Ovenbirds comprise a large family of small sub-oscine passerine bird species found in Central and South America. They are a diverse group of insectivores which gets its name from the elaborate \"oven-like\" clay nests built by some species, although others build stick nests or nest in tunnels or clefts in rock. The woodcreepers are brownish birds which maintain an upright vertical posture supported by their stiff tail vanes. They feed mainly on insects taken from tree trunks.",
+    "images" : [
+      {
+        "title" : "Streaked xenops",
+        "filename" : "File:Xenops_rutilans.jpg"
+      },
+      {
+        "title" : "Spot-crowned woodcreeper",
+        "filename" : "File:Spot-crowned_Woodcreeper.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Tawny-throated leaftosser",
@@ -4170,32 +3960,25 @@
         "latin" : "Synallaxis brachyura"
       }
     ],
-    "category" : "Ovenbirds and woodcreepers",
-    "family" : {
-      "name" : "Furnariidae",
-      "link" : "\/wiki\/Furnariidae"
-    }
-  },
-  {
-    "summary" : "<p>The manakins are a family of subtropical and tropical mainland Central and South America, and Trinidad and Tobago. They are compact forest birds, the males typically being brightly colored, although the females of most species are duller and usually green-plumaged. Manakins feed on small fruits, berries, and insects. <\/p>",
-    "images" : [
-      {
-        "title" : "Orange-collared manakin",
-        "img" : {
-          "height" : "333",
-          "dataFileWidth" : "308",
-          "dataFileHeight" : "333",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/7a\/Orange-collared_Manakin.jpg\/300px-Orange-collared_Manakin.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7a\/Orange-collared_Manakin.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/7a\/Orange-collared_Manakin.jpg\/200px-Orange-collared_Manakin.jpg",
-          "width" : "308"
-        },
-        "filehref" : "\/wiki\/File:Orange-collared_Manakin.jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Ovenbirds and woodcreepers",
+    "family" : {
+      "name" : "Furnariidae",
+      "link" : "\/wiki\/Furnariidae"
+    },
+    "summaryHTML" : "<p>Ovenbirds comprise a large family of small <a href=\"\/wiki\/Sub-oscine\" class=\"mw-redirect\" title=\"Sub-oscine\">sub-oscine<\/a> passerine bird species found in Central and South America. They are a diverse group of insectivores which gets its name from the elaborate \"oven-like\" clay nests built by some species, although others build stick nests or nest in tunnels or clefts in rock. The woodcreepers are brownish birds which maintain an upright vertical posture supported by their stiff tail vanes. They feed mainly on insects taken from tree trunks. <\/p>"
+  },
+  {
+    "summary" : "The manakins are a family of subtropical and tropical mainland Central and South America, and Trinidad and Tobago. They are compact forest birds, the males typically being brightly colored, although the females of most species are duller and usually green-plumaged. Manakins feed on small fruits, berries, and insects.",
+    "images" : [
+      {
+        "title" : "Orange-collared manakin",
+        "filename" : "File:Orange-collared_Manakin.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Lance-tailed manakin",
@@ -4239,21 +4022,22 @@
         "latin" : "Ceratopipra mentalis"
       }
     ],
-    "category" : "Manakins",
-    "family" : {
-      "name" : "Pipridae",
-      "link" : "\/wiki\/Pipridae"
-    }
-  },
-  {
-    "summary" : "<p>The cotingas are birds of forests or forest edges in tropical South America. Comparatively little is known about this diverse group, although all have broad bills with hooked tips, rounded wings, and strong legs. The males of many of the species are brightly colored or decorated with plumes or wattles. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Manakins",
+    "family" : {
+      "name" : "Pipridae",
+      "link" : "\/wiki\/Pipridae"
+    },
+    "summaryHTML" : "<p>The manakins are a family of subtropical and tropical mainland Central and South America, and Trinidad and Tobago. They are compact forest birds, the males typically being brightly colored, although the females of most species are duller and usually green-plumaged. Manakins feed on small fruits, berries, and insects. <\/p>"
+  },
+  {
+    "summary" : "The cotingas are birds of forests or forest edges in tropical South America. Comparatively little is known about this diverse group, although all have broad bills with hooked tips, rounded wings, and strong legs. The males of many of the species are brightly colored or decorated with plumes or wattles.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Purple-throated fruitcrow",
@@ -4296,32 +4080,25 @@
         "latin" : "Carpodectes nitidus"
       }
     ],
-    "category" : "Cotingas",
-    "family" : {
-      "name" : "Cotingidae",
-      "link" : "\/wiki\/Cotingidae"
-    }
-  },
-  {
-    "summary" : "<p>Tityridae are <a href=\"\/wiki\/Suboscine\" class=\"mw-redirect\" title=\"Suboscine\">suboscine<\/a> passerine birds found in forest and woodland in the <a href=\"\/wiki\/Neotropics\" class=\"mw-redirect\" title=\"Neotropics\">Neotropics<\/a>. The species in this family were formerly spread over the families <a href=\"\/wiki\/Tyrannidae\" class=\"mw-redirect\" title=\"Tyrannidae\">Tyrannidae<\/a>, <a href=\"\/wiki\/Pipridae\" class=\"mw-redirect\" title=\"Pipridae\">Pipridae<\/a>, and <a href=\"\/wiki\/Cotingidae\" class=\"mw-redirect\" title=\"Cotingidae\">Cotingidae<\/a>. They are small to medium-sized birds. They do not have the sophisticated vocal capabilities of the songbirds. Most, but not all, have plain coloring. <\/p>",
-    "images" : [
-      {
-        "title" : "Cinnamon becard",
-        "img" : {
-          "height" : "972",
-          "dataFileWidth" : "1182",
-          "dataFileHeight" : "972",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/94\/Pachyramphus_cinnamomeus.jpg\/300px-Pachyramphus_cinnamomeus.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/94\/Pachyramphus_cinnamomeus.jpg\/400px-Pachyramphus_cinnamomeus.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/94\/Pachyramphus_cinnamomeus.jpg\/200px-Pachyramphus_cinnamomeus.jpg",
-          "width" : "1182"
-        },
-        "filehref" : "\/wiki\/File:Pachyramphus_cinnamomeus.jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Cotingas",
+    "family" : {
+      "name" : "Cotingidae",
+      "link" : "\/wiki\/Cotingidae"
+    },
+    "summaryHTML" : "<p>The cotingas are birds of forests or forest edges in tropical South America. Comparatively little is known about this diverse group, although all have broad bills with hooked tips, rounded wings, and strong legs. The males of many of the species are brightly colored or decorated with plumes or wattles. <\/p>"
+  },
+  {
+    "summary" : "Tityridae are suboscine passerine birds found in forest and woodland in the Neotropics. The species in this family were formerly spread over the families Tyrannidae, Pipridae, and Cotingidae. They are small to medium-sized birds. They do not have the sophisticated vocal capabilities of the songbirds. Most, but not all, have plain coloring.",
+    "images" : [
+      {
+        "title" : "Cinnamon becard",
+        "filename" : "File:Pachyramphus_cinnamomeus.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Northern schiffornis",
@@ -4369,21 +4146,22 @@
         "latin" : "Pachyramphus aglaiae"
       }
     ],
-    "category" : "Tityras and allies",
-    "family" : {
-      "name" : "Tityridae",
-      "link" : "\/wiki\/Tityridae"
-    }
-  },
-  {
-    "summary" : "<p>The sharpbill is a small bird of dense forests in Central and South America. It feeds mostly on fruit but also eats insects. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Tityras and allies",
+    "family" : {
+      "name" : "Tityridae",
+      "link" : "\/wiki\/Tityridae"
+    },
+    "summaryHTML" : "<p>Tityridae are <a href=\"\/wiki\/Suboscine\" class=\"mw-redirect\" title=\"Suboscine\">suboscine<\/a> passerine birds found in forest and woodland in the <a href=\"\/wiki\/Neotropics\" class=\"mw-redirect\" title=\"Neotropics\">Neotropics<\/a>. The species in this family were formerly spread over the families <a href=\"\/wiki\/Tyrannidae\" class=\"mw-redirect\" title=\"Tyrannidae\">Tyrannidae<\/a>, <a href=\"\/wiki\/Pipridae\" class=\"mw-redirect\" title=\"Pipridae\">Pipridae<\/a>, and <a href=\"\/wiki\/Cotingidae\" class=\"mw-redirect\" title=\"Cotingidae\">Cotingidae<\/a>. They are small to medium-sized birds. They do not have the sophisticated vocal capabilities of the songbirds. Most, but not all, have plain coloring. <\/p>"
+  },
+  {
+    "summary" : "The sharpbill is a small bird of dense forests in Central and South America. It feeds mostly on fruit but also eats insects.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Sharpbill",
@@ -4391,21 +4169,22 @@
         "latin" : "Oxyruncus cristatus"
       }
     ],
-    "category" : "Sharpbill",
-    "family" : {
-      "name" : "Oxyruncidae",
-      "link" : "\/wiki\/Oxyruncidae"
-    }
-  },
-  {
-    "summary" : "<p>The members of this small family, created in 2018, were formerly considered to be tyrant flycatchers, family Tyrannidae. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Sharpbill",
+    "family" : {
+      "name" : "Oxyruncidae",
+      "link" : "\/wiki\/Oxyruncidae"
+    },
+    "summaryHTML" : "<p>The sharpbill is a small bird of dense forests in Central and South America. It feeds mostly on fruit but also eats insects. <\/p>"
+  },
+  {
+    "summary" : "The members of this small family, created in 2018, were formerly considered to be tyrant flycatchers, family Tyrannidae.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Royal flycatcher",
@@ -4428,44 +4207,29 @@
         "latin" : "Myiobius atricaudus"
       }
     ],
-    "category" : "Royal flycatcher and allies",
-    "family" : {
-      "name" : "Onychorhynchidae",
-      "link" : "\/wiki\/Onychorhynchidae"
-    }
-  },
-  {
-    "summary" : "<p><a href=\"\/wiki\/Tyrant_flycatcher\" title=\"Tyrant flycatcher\">Tyrant flycatchers<\/a> are passerine birds which occur throughout North and South America. They superficially resemble the Old World flycatchers, but are more robust and have stronger bills. They do not have the sophisticated vocal capabilities of the songbirds. Most, but not all, have plain coloring. As the name implies, most are insectivorous. <\/p>",
-    "images" : [
-      {
-        "title" : "Common tody-flycatcher",
-        "img" : {
-          "height" : "800",
-          "dataFileWidth" : "708",
-          "dataFileHeight" : "800",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/86\/Todirostrum_cinereum.jpg\/300px-Todirostrum_cinereum.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/86\/Todirostrum_cinereum.jpg\/400px-Todirostrum_cinereum.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/86\/Todirostrum_cinereum.jpg\/200px-Todirostrum_cinereum.jpg",
-          "width" : "708"
-        },
-        "filehref" : "\/wiki\/File:Todirostrum_cinereum.jpg"
-      },
-      {
-        "title" : "Dusky-capped flycatcher",
-        "img" : {
-          "height" : "1024",
-          "dataFileWidth" : "1024",
-          "dataFileHeight" : "1024",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f3\/Myiarchus-tuberculifer-001.jpg\/300px-Myiarchus-tuberculifer-001.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f3\/Myiarchus-tuberculifer-001.jpg\/400px-Myiarchus-tuberculifer-001.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f3\/Myiarchus-tuberculifer-001.jpg\/200px-Myiarchus-tuberculifer-001.jpg",
-          "width" : "1024"
-        },
-        "filehref" : "\/wiki\/File:Myiarchus-tuberculifer-001.jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Royal flycatcher and allies",
+    "family" : {
+      "name" : "Onychorhynchidae",
+      "link" : "\/wiki\/Onychorhynchidae"
+    },
+    "summaryHTML" : "<p>The members of this small family, created in 2018, were formerly considered to be tyrant flycatchers, family Tyrannidae. <\/p>"
+  },
+  {
+    "summary" : "Tyrant flycatchers are passerine birds which occur throughout North and South America. They superficially resemble the Old World flycatchers, but are more robust and have stronger bills. They do not have the sophisticated vocal capabilities of the songbirds. Most, but not all, have plain coloring. As the name implies, most are insectivorous.",
+    "images" : [
+      {
+        "title" : "Common tody-flycatcher",
+        "filename" : "File:Todirostrum_cinereum.jpg"
+      },
+      {
+        "title" : "Dusky-capped flycatcher",
+        "filename" : "File:Myiarchus-tuberculifer-001.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Gray-headed piprites",
@@ -4871,32 +4635,25 @@
         "latin" : "Colonia colonus"
       }
     ],
-    "category" : "Tyrant flycatchers",
-    "family" : {
-      "name" : "Tyrannidae",
-      "link" : "\/wiki\/Tyrannidae"
-    }
-  },
-  {
-    "summary" : "<p>The <a href=\"\/wiki\/Vireo\" title=\"Vireo\">vireos<\/a> are a group of small to medium-sized passerine birds. They are typically greenish in color and resemble <a href=\"\/wiki\/New_World_warbler\" title=\"New World warbler\">wood warblers<\/a> apart from their heavier bills. <\/p>",
-    "images" : [
-      {
-        "title" : "Rufous-browed peppershrike",
-        "img" : {
-          "height" : "1743",
-          "dataFileWidth" : "2447",
-          "dataFileHeight" : "1743",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cd\/Cyclarhis_gujanensis.jpg\/300px-Cyclarhis_gujanensis.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cd\/Cyclarhis_gujanensis.jpg\/400px-Cyclarhis_gujanensis.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cd\/Cyclarhis_gujanensis.jpg\/200px-Cyclarhis_gujanensis.jpg",
-          "width" : "2447"
-        },
-        "filehref" : "\/wiki\/File:Cyclarhis_gujanensis.jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Tyrant flycatchers",
+    "family" : {
+      "name" : "Tyrannidae",
+      "link" : "\/wiki\/Tyrannidae"
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Tyrant_flycatcher\" title=\"Tyrant flycatcher\">Tyrant flycatchers<\/a> are passerine birds which occur throughout North and South America. They superficially resemble the Old World flycatchers, but are more robust and have stronger bills. They do not have the sophisticated vocal capabilities of the songbirds. Most, but not all, have plain coloring. As the name implies, most are insectivorous. <\/p>"
+  },
+  {
+    "summary" : "The vireos are a group of small to medium-sized passerine birds. They are typically greenish in color and resemble wood warblers apart from their heavier bills.",
+    "images" : [
+      {
+        "title" : "Rufous-browed peppershrike",
+        "filename" : "File:Cyclarhis_gujanensis.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Rufous-browed peppershrike",
@@ -4980,32 +4737,25 @@
         "latin" : "Vireo altiloquus"
       }
     ],
-    "category" : "Vireos, shrike-babblers, and erpornis",
-    "family" : {
-      "name" : "Vireonidae",
-      "link" : "\/wiki\/Vireonidae"
-    }
-  },
-  {
-    "summary" : "<p>The family Corvidae includes <a href=\"\/wiki\/Crow\" title=\"Crow\">crows<\/a>, <a href=\"\/wiki\/Raven\" title=\"Raven\">ravens<\/a>, <a href=\"\/wiki\/Jay\" title=\"Jay\">jays<\/a>, <a href=\"\/wiki\/Chough\" title=\"Chough\">choughs<\/a>, <a href=\"\/wiki\/Magpie\" title=\"Magpie\">magpies<\/a>, <a href=\"\/wiki\/Treepie\" title=\"Treepie\">treepies<\/a>, <a href=\"\/wiki\/Nutcracker_(bird)\" title=\"Nutcracker (bird)\">nutcrackers<\/a>, and <a href=\"\/wiki\/Ground_jay\" title=\"Ground jay\">ground jays<\/a>. Corvids are above average in size among the Passeriformes, and some of the larger species show high levels of intelligence. <\/p>",
-    "images" : [
-      {
-        "title" : "White-throated magpie-jay",
-        "img" : {
-          "height" : "3795",
-          "dataFileWidth" : "2848",
-          "dataFileHeight" : "3795",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/36\/Calocitta_formosa_%28Montezuma%29.jpg\/300px-Calocitta_formosa_%28Montezuma%29.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/36\/Calocitta_formosa_%28Montezuma%29.jpg\/400px-Calocitta_formosa_%28Montezuma%29.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/36\/Calocitta_formosa_%28Montezuma%29.jpg\/200px-Calocitta_formosa_%28Montezuma%29.jpg",
-          "width" : "2848"
-        },
-        "filehref" : "\/wiki\/File:Calocitta_formosa_(Montezuma).jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Vireos, shrike-babblers, and erpornis",
+    "family" : {
+      "name" : "Vireonidae",
+      "link" : "\/wiki\/Vireonidae"
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/Vireo\" title=\"Vireo\">vireos<\/a> are a group of small to medium-sized passerine birds. They are typically greenish in color and resemble <a href=\"\/wiki\/New_World_warbler\" title=\"New World warbler\">wood warblers<\/a> apart from their heavier bills. <\/p>"
+  },
+  {
+    "summary" : "The family Corvidae includes crows, ravens, jays, choughs, magpies, treepies, nutcrackers, and ground jays. Corvids are above average in size among the Passeriformes, and some of the larger species show high levels of intelligence.",
+    "images" : [
+      {
+        "title" : "White-throated magpie-jay",
+        "filename" : "File:Calocitta_formosa_(Montezuma).jpg"
+      }
+    ],
     "birds" : [
       {
         "latin" : "Cyanolyca argentigula",
@@ -5034,32 +4784,25 @@
         "latin" : "Cyanocorax affinis"
       }
     ],
-    "category" : "Crows, jays, and magpies",
-    "family" : {
-      "name" : "Corvidae",
-      "link" : "\/wiki\/Corvidae"
-    }
-  },
-  {
-    "summary" : "<p>The family Hirundinidae is adapted to aerial feeding. They have a slender streamlined body, long pointed wings, and a short bill with a wide gape. The feet are adapted to perching rather than walking, and the front toes are partially joined at the base. <\/p>",
-    "images" : [
-      {
-        "title" : "Mangrove swallow",
-        "img" : {
-          "height" : "640",
-          "dataFileWidth" : "960",
-          "dataFileHeight" : "640",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/57\/Mangrove_Swallow.jpg\/300px-Mangrove_Swallow.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/57\/Mangrove_Swallow.jpg\/400px-Mangrove_Swallow.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/57\/Mangrove_Swallow.jpg\/200px-Mangrove_Swallow.jpg",
-          "width" : "960"
-        },
-        "filehref" : "\/wiki\/File:Mangrove_Swallow.jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Crows, jays, and magpies",
+    "family" : {
+      "name" : "Corvidae",
+      "link" : "\/wiki\/Corvidae"
+    },
+    "summaryHTML" : "<p>The family Corvidae includes <a href=\"\/wiki\/Crow\" title=\"Crow\">crows<\/a>, <a href=\"\/wiki\/Raven\" title=\"Raven\">ravens<\/a>, <a href=\"\/wiki\/Jay\" title=\"Jay\">jays<\/a>, <a href=\"\/wiki\/Chough\" title=\"Chough\">choughs<\/a>, <a href=\"\/wiki\/Magpie\" title=\"Magpie\">magpies<\/a>, <a href=\"\/wiki\/Treepie\" title=\"Treepie\">treepies<\/a>, <a href=\"\/wiki\/Nutcracker_(bird)\" title=\"Nutcracker (bird)\">nutcrackers<\/a>, and <a href=\"\/wiki\/Ground_jay\" title=\"Ground jay\">ground jays<\/a>. Corvids are above average in size among the Passeriformes, and some of the larger species show high levels of intelligence. <\/p>"
+  },
+  {
+    "summary" : "The family Hirundinidae is adapted to aerial feeding. They have a slender streamlined body, long pointed wings, and a short bill with a wide gape. The feet are adapted to perching rather than walking, and the front toes are partially joined at the base.",
+    "images" : [
+      {
+        "title" : "Mangrove swallow",
+        "filename" : "File:Mangrove_Swallow.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Bank swallow",
@@ -5128,32 +4871,25 @@
         "link" : "\/wiki\/Cave_swallow"
       }
     ],
-    "category" : "Swallows",
-    "family" : {
-      "name" : "Hirundinidae",
-      "link" : "\/wiki\/Hirundinidae"
-    }
-  },
-  {
-    "summary" : "<p>The <a href=\"\/wiki\/Wren\" title=\"Wren\">wrens<\/a> are mainly small and inconspicuous except for their loud songs. These birds have short wings and thin down-turned bills. Several species often hold their tails upright. All are insectivorous. <\/p>",
-    "images" : [
-      {
-        "title" : "Bay wren",
-        "img" : {
-          "height" : "1890",
-          "dataFileWidth" : "2069",
-          "dataFileHeight" : "1890",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/53\/Bay_Wren.jpg\/300px-Bay_Wren.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/53\/Bay_Wren.jpg\/400px-Bay_Wren.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/53\/Bay_Wren.jpg\/200px-Bay_Wren.jpg",
-          "width" : "2069"
-        },
-        "filehref" : "\/wiki\/File:Bay_Wren.jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Swallows",
+    "family" : {
+      "name" : "Hirundinidae",
+      "link" : "\/wiki\/Hirundinidae"
+    },
+    "summaryHTML" : "<p>The family Hirundinidae is adapted to aerial feeding. They have a slender streamlined body, long pointed wings, and a short bill with a wide gape. The feet are adapted to perching rather than walking, and the front toes are partially joined at the base. <\/p>"
+  },
+  {
+    "summary" : "The wrens are mainly small and inconspicuous except for their loud songs. These birds have short wings and thin down-turned bills. Several species often hold their tails upright. All are insectivorous.",
+    "images" : [
+      {
+        "title" : "Bay wren",
+        "filename" : "File:Bay_Wren.jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Rock wren",
@@ -5280,21 +5016,22 @@
         "latin" : "Cyphorhinus phaeocephalus"
       }
     ],
-    "category" : "Wrens",
-    "family" : {
-      "name" : "Troglodytidae",
-      "link" : "\/wiki\/Troglodytidae"
-    }
-  },
-  {
-    "summary" : "<p>These dainty birds resemble <a href=\"\/wiki\/Old_World_warblers\" class=\"mw-redirect\" title=\"Old World warblers\">Old World warblers<\/a> in their build and habits, moving restlessly through the foliage seeking insects. The gnatcatchers and gnatwrens are mainly soft bluish gray in color and have the typical insectivore's long sharp bill. They are birds of fairly open woodland or scrub, which nest in bushes or trees. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Wrens",
+    "family" : {
+      "name" : "Troglodytidae",
+      "link" : "\/wiki\/Troglodytidae"
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/Wren\" title=\"Wren\">wrens<\/a> are mainly small and inconspicuous except for their loud songs. These birds have short wings and thin down-turned bills. Several species often hold their tails upright. All are insectivorous. <\/p>"
+  },
+  {
+    "summary" : "These dainty birds resemble Old World warblers in their build and habits, moving restlessly through the foliage seeking insects. The gnatcatchers and gnatwrens are mainly soft bluish gray in color and have the typical insectivore's long sharp bill. They are birds of fairly open woodland or scrub, which nest in bushes or trees.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Tawny-faced gnatwren",
@@ -5317,21 +5054,22 @@
         "latin" : "Polioptila plumbea"
       }
     ],
-    "category" : "Gnatcatchers",
-    "family" : {
-      "name" : "Polioptilidae",
-      "link" : "\/wiki\/Polioptilidae"
-    }
-  },
-  {
-    "summary" : "<p>Dippers are a group of perching birds whose habitat includes aquatic environments in the Americas, Europe, and Asia. They are named for their bobbing or dipping movements. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Gnatcatchers",
+    "family" : {
+      "name" : "Polioptilidae",
+      "link" : "\/wiki\/Polioptilidae"
+    },
+    "summaryHTML" : "<p>These dainty birds resemble <a href=\"\/wiki\/Old_World_warblers\" class=\"mw-redirect\" title=\"Old World warblers\">Old World warblers<\/a> in their build and habits, moving restlessly through the foliage seeking insects. The gnatcatchers and gnatwrens are mainly soft bluish gray in color and have the typical insectivore's long sharp bill. They are birds of fairly open woodland or scrub, which nest in bushes or trees. <\/p>"
+  },
+  {
+    "summary" : "Dippers are a group of perching birds whose habitat includes aquatic environments in the Americas, Europe, and Asia. They are named for their bobbing or dipping movements.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "American dipper",
@@ -5339,32 +5077,25 @@
         "latin" : "Cinclus mexicanus"
       }
     ],
-    "category" : "Dippers",
-    "family" : {
-      "name" : "Cinclidae",
-      "link" : "\/wiki\/Cinclidae"
-    }
-  },
-  {
-    "summary" : "<p>The <a href=\"\/wiki\/Thrush_(bird)\" title=\"Thrush (bird)\">thrushes<\/a> are a group of passerine birds that occur mainly in the Old World. They are plump, soft plumaged, small to medium-sized insectivores or sometimes omnivores, often feeding on the ground. Many have attractive songs. <\/p>",
-    "images" : [
-      {
-        "title" : "Sooty robin",
-        "img" : {
-          "height" : "1974",
-          "dataFileWidth" : "1662",
-          "dataFileHeight" : "1974",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/ad\/Sooty_Robin.jpg\/300px-Sooty_Robin.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/ad\/Sooty_Robin.jpg\/400px-Sooty_Robin.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/ad\/Sooty_Robin.jpg\/200px-Sooty_Robin.jpg",
-          "width" : "1662"
-        },
-        "filehref" : "\/wiki\/File:Sooty_Robin.jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Dippers",
+    "family" : {
+      "name" : "Cinclidae",
+      "link" : "\/wiki\/Cinclidae"
+    },
+    "summaryHTML" : "<p>Dippers are a group of perching birds whose habitat includes aquatic environments in the Americas, Europe, and Asia. They are named for their bobbing or dipping movements. <\/p>"
+  },
+  {
+    "summary" : "The thrushes are a group of passerine birds that occur mainly in the Old World. They are plump, soft plumaged, small to medium-sized insectivores or sometimes omnivores, often feeding on the ground. Many have attractive songs.",
+    "images" : [
+      {
+        "title" : "Sooty robin",
+        "filename" : "File:Sooty_Robin.jpg"
+      }
+    ],
     "birds" : [
       {
         "latin" : "Myadestes melanops",
@@ -5445,21 +5176,22 @@
         "latin" : "Turdus assimilis"
       }
     ],
-    "category" : "Thrushes and allies",
-    "family" : {
-      "name" : "Turdidae",
-      "link" : "\/wiki\/Turdidae"
-    }
-  },
-  {
-    "summary" : "<p>The mimids are a family of passerine birds that includes <a href=\"\/wiki\/Thrasher\" title=\"Thrasher\">thrashers<\/a>, <a href=\"\/wiki\/Mockingbird\" title=\"Mockingbird\">mockingbirds<\/a>, <a href=\"\/wiki\/Trembler\" title=\"Trembler\">tremblers<\/a>, and the <a href=\"\/wiki\/New_World_catbirds\" class=\"mw-redirect\" title=\"New World catbirds\">New World catbirds<\/a>. These birds are notable for their vocalizations, especially their ability to mimic a wide variety of birds and other sounds heard outdoors. Their coloring tends towards dull-grays and browns. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Thrushes and allies",
+    "family" : {
+      "name" : "Turdidae",
+      "link" : "\/wiki\/Turdidae"
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/Thrush_(bird)\" title=\"Thrush (bird)\">thrushes<\/a> are a group of passerine birds that occur mainly in the Old World. They are plump, soft plumaged, small to medium-sized insectivores or sometimes omnivores, often feeding on the ground. Many have attractive songs. <\/p>"
+  },
+  {
+    "summary" : "The mimids are a family of passerine birds that includes thrashers, mockingbirds, tremblers, and the New World catbirds. These birds are notable for their vocalizations, especially their ability to mimic a wide variety of birds and other sounds heard outdoors. Their coloring tends towards dull-grays and browns.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Gray catbird",
@@ -5472,21 +5204,22 @@
         "latin" : "Mimus gilvus"
       }
     ],
-    "category" : "Mockingbirds and thrashers",
-    "family" : {
-      "name" : "Mimidae",
-      "link" : "\/wiki\/Mimidae"
-    }
-  },
-  {
-    "summary" : "<p>The <a href=\"\/wiki\/Waxwing\" title=\"Waxwing\">waxwings<\/a> are a group of birds with soft silky plumage and unique red tips to some of the wing feathers. In the Bohemian and cedar waxwings, these tips look like <a href=\"\/wiki\/Sealing_wax\" title=\"Sealing wax\">sealing wax<\/a> and give the group its name. These are arboreal birds of northern forests. They live on insects in summer and berries in winter. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Mockingbirds and thrashers",
+    "family" : {
+      "name" : "Mimidae",
+      "link" : "\/wiki\/Mimidae"
+    },
+    "summaryHTML" : "<p>The mimids are a family of passerine birds that includes <a href=\"\/wiki\/Thrasher\" title=\"Thrasher\">thrashers<\/a>, <a href=\"\/wiki\/Mockingbird\" title=\"Mockingbird\">mockingbirds<\/a>, <a href=\"\/wiki\/Trembler\" title=\"Trembler\">tremblers<\/a>, and the <a href=\"\/wiki\/New_World_catbirds\" class=\"mw-redirect\" title=\"New World catbirds\">New World catbirds<\/a>. These birds are notable for their vocalizations, especially their ability to mimic a wide variety of birds and other sounds heard outdoors. Their coloring tends towards dull-grays and browns. <\/p>"
+  },
+  {
+    "summary" : "The waxwings are a group of birds with soft silky plumage and unique red tips to some of the wing feathers. In the Bohemian and cedar waxwings, these tips look like sealing wax and give the group its name. These are arboreal birds of northern forests. They live on insects in summer and berries in winter.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Cedar waxwing",
@@ -5494,32 +5227,25 @@
         "latin" : "Bombycilla cedrorum"
       }
     ],
-    "category" : "Waxwings",
-    "family" : {
-      "name" : "Bombycillidae",
-      "link" : "\/wiki\/Bombycillidae"
-    }
-  },
-  {
-    "summary" : "<p>The silky-flycatchers are a small family of passerine birds which occur mainly in Central America, although the range of one species extends to central California. They are related to waxwings and like that group have soft silky plumage, usually gray or pale yellow. They have small crests. <\/p>",
-    "images" : [
-      {
-        "title" : "Long-tailed silky-flycatcher",
-        "img" : {
-          "height" : "2436",
-          "dataFileWidth" : "2105",
-          "dataFileHeight" : "2436",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d0\/Ptilogonys_caudatus.jpg\/300px-Ptilogonys_caudatus.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d0\/Ptilogonys_caudatus.jpg\/400px-Ptilogonys_caudatus.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d0\/Ptilogonys_caudatus.jpg\/200px-Ptilogonys_caudatus.jpg",
-          "width" : "2105"
-        },
-        "filehref" : "\/wiki\/File:Ptilogonys_caudatus.jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Waxwings",
+    "family" : {
+      "name" : "Bombycillidae",
+      "link" : "\/wiki\/Bombycillidae"
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/Waxwing\" title=\"Waxwing\">waxwings<\/a> are a group of birds with soft silky plumage and unique red tips to some of the wing feathers. In the Bohemian and cedar waxwings, these tips look like <a href=\"\/wiki\/Sealing_wax\" title=\"Sealing wax\">sealing wax<\/a> and give the group its name. These are arboreal birds of northern forests. They live on insects in summer and berries in winter. <\/p>"
+  },
+  {
+    "summary" : "The silky-flycatchers are a small family of passerine birds which occur mainly in Central America, although the range of one species extends to central California. They are related to waxwings and like that group have soft silky plumage, usually gray or pale yellow. They have small crests.",
+    "images" : [
+      {
+        "title" : "Long-tailed silky-flycatcher",
+        "filename" : "File:Ptilogonys_caudatus.jpg"
+      }
+    ],
     "birds" : [
       {
         "latin" : "Phainoptila melanoxantha",
@@ -5534,21 +5260,22 @@
         "link" : "\/wiki\/Long-tailed_silky-flycatcher"
       }
     ],
-    "category" : "Silky-flycatchers",
-    "family" : {
-      "name" : "Ptiliogonatidae",
-      "link" : "\/wiki\/Ptiliogonatidae"
-    }
-  },
-  {
-    "summary" : "<p>The <a href=\"\/wiki\/Estrildid_finch\" class=\"mw-redirect\" title=\"Estrildid finch\">estrildid finches<\/a> are small passerine birds of the Old World tropics and <a href=\"\/wiki\/Australasia\" title=\"Australasia\">Australasia<\/a>. They are gregarious and often colonial seed eaters with short thick but pointed bills. They are all similar in structure and habits, but have wide variation in plumage colors and patterns. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Silky-flycatchers",
+    "family" : {
+      "name" : "Ptiliogonatidae",
+      "link" : "\/wiki\/Ptiliogonatidae"
+    },
+    "summaryHTML" : "<p>The silky-flycatchers are a small family of passerine birds which occur mainly in Central America, although the range of one species extends to central California. They are related to waxwings and like that group have soft silky plumage, usually gray or pale yellow. They have small crests. <\/p>"
+  },
+  {
+    "summary" : "The estrildid finches are small passerine birds of the Old World tropics and Australasia. They are gregarious and often colonial seed eaters with short thick but pointed bills. They are all similar in structure and habits, but have wide variation in plumage colors and patterns.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "latin" : "Lonchura malacca",
@@ -5557,21 +5284,22 @@
         "link" : "\/wiki\/Tricolored_munia"
       }
     ],
-    "category" : "Waxbills and allies",
-    "family" : {
-      "name" : "Estrildidae",
-      "link" : "\/wiki\/Estrildidae"
-    }
-  },
-  {
-    "summary" : "<p><a href=\"\/wiki\/Old_World_sparrow\" title=\"Old World sparrow\">Sparrows<\/a> are small passerine birds. In general, sparrows tend to be small, plump, brown or gray birds with short tails and short powerful beaks. Sparrows are seed eaters, but they also consume small insects. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Waxbills and allies",
+    "family" : {
+      "name" : "Estrildidae",
+      "link" : "\/wiki\/Estrildidae"
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/Estrildid_finch\" class=\"mw-redirect\" title=\"Estrildid finch\">estrildid finches<\/a> are small passerine birds of the Old World tropics and <a href=\"\/wiki\/Australasia\" title=\"Australasia\">Australasia<\/a>. They are gregarious and often colonial seed eaters with short thick but pointed bills. They are all similar in structure and habits, but have wide variation in plumage colors and patterns. <\/p>"
+  },
+  {
+    "summary" : "Sparrows are small passerine birds. In general, sparrows tend to be small, plump, brown or gray birds with short tails and short powerful beaks. Sparrows are seed eaters, but they also consume small insects.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "latin" : "Passer domesticus",
@@ -5580,21 +5308,22 @@
         "link" : "\/wiki\/House_sparrow"
       }
     ],
-    "category" : "Old World sparrows",
-    "family" : {
-      "name" : "Passeridae",
-      "link" : "\/wiki\/Passeridae"
-    }
-  },
-  {
-    "summary" : "<p>Motacillidae is a family of small passerine birds with medium to long tails. They include the wagtails, longclaws, and pipits. They are slender ground-feeding insectivores of open country. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Old World sparrows",
+    "family" : {
+      "name" : "Passeridae",
+      "link" : "\/wiki\/Passeridae"
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Old_World_sparrow\" title=\"Old World sparrow\">Sparrows<\/a> are small passerine birds. In general, sparrows tend to be small, plump, brown or gray birds with short tails and short powerful beaks. Sparrows are seed eaters, but they also consume small insects. <\/p>"
+  },
+  {
+    "summary" : "Motacillidae is a family of small passerine birds with medium to long tails. They include the wagtails, longclaws, and pipits. They are slender ground-feeding insectivores of open country.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "latin" : "Anthus rubescens",
@@ -5603,32 +5332,25 @@
         "link" : "\/wiki\/American_pipit"
       }
     ],
-    "category" : "Wagtails and pipits",
-    "family" : {
-      "name" : "Motacillidae",
-      "link" : "\/wiki\/Motacillidae"
-    }
-  },
-  {
-    "summary" : "<p><a href=\"\/wiki\/Finch\" title=\"Finch\">Finches<\/a> are seed-eating passerine birds, that are small to moderately large and have a strong beak, usually conical and in some species very large. All have twelve tail feathers and nine primaries. These birds have a bouncing flight with alternating bouts of flapping and gliding on closed wings, and most sing well. <\/p>",
-    "images" : [
-      {
-        "title" : "Thick-billed euphonia",
-        "img" : {
-          "height" : "1426",
-          "dataFileWidth" : "1624",
-          "dataFileHeight" : "1426",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c0\/Thick-billed_Euphonia_%28Euphonia_laniirostris%29.jpg\/300px-Thick-billed_Euphonia_%28Euphonia_laniirostris%29.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c0\/Thick-billed_Euphonia_%28Euphonia_laniirostris%29.jpg\/400px-Thick-billed_Euphonia_%28Euphonia_laniirostris%29.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c0\/Thick-billed_Euphonia_%28Euphonia_laniirostris%29.jpg\/200px-Thick-billed_Euphonia_%28Euphonia_laniirostris%29.jpg",
-          "width" : "1624"
-        },
-        "filehref" : "\/wiki\/File:Thick-billed_Euphonia_(Euphonia_laniirostris).jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Wagtails and pipits",
+    "family" : {
+      "name" : "Motacillidae",
+      "link" : "\/wiki\/Motacillidae"
+    },
+    "summaryHTML" : "<p>Motacillidae is a family of small passerine birds with medium to long tails. They include the wagtails, longclaws, and pipits. They are slender ground-feeding insectivores of open country. <\/p>"
+  },
+  {
+    "summary" : "Finches are seed-eating passerine birds, that are small to moderately large and have a strong beak, usually conical and in some species very large. All have twelve tail feathers and nine primaries. These birds have a bouncing flight with alternating bouts of flapping and gliding on closed wings, and most sing well.",
+    "images" : [
+      {
+        "title" : "Thick-billed euphonia",
+        "filename" : "File:Thick-billed_Euphonia_(Euphonia_laniirostris).jpg"
+      }
+    ],
     "birds" : [
       {
         "latin" : "Chlorophonia callophrys",
@@ -5693,21 +5415,22 @@
         "latin" : "Spinus psaltria"
       }
     ],
-    "category" : "Finches, euphonias, and allies",
-    "family" : {
-      "name" : "Fringillidae",
-      "link" : "\/wiki\/Fringillidae"
-    }
-  },
-  {
-    "summary" : "<p>This species was historically placed in family Thraupidae. It was placed in its own family in 2017. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Finches, euphonias, and allies",
+    "family" : {
+      "name" : "Fringillidae",
+      "link" : "\/wiki\/Fringillidae"
+    },
+    "summaryHTML" : "<p><a href=\"\/wiki\/Finch\" title=\"Finch\">Finches<\/a> are seed-eating passerine birds, that are small to moderately large and have a strong beak, usually conical and in some species very large. All have twelve tail feathers and nine primaries. These birds have a bouncing flight with alternating bouts of flapping and gliding on closed wings, and most sing well. <\/p>"
+  },
+  {
+    "summary" : "This species was historically placed in family Thraupidae. It was placed in its own family in 2017.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Rosy thrush-tanager",
@@ -5715,32 +5438,25 @@
         "latin" : "Rhodinocichla rosea"
       }
     ],
-    "category" : "Thrush-tanager",
-    "family" : {
-      "name" : "Rhodinocichlidae",
-      "link" : "\/wiki\/Rhodinocichlidae"
-    }
-  },
-  {
-    "summary" : "<p>Until 2017, these species were considered part of the family Emberizidae. Most of the species are known as sparrows, but these birds are not closely related to the Old World sparrows which are in the family Passeridae. Many of these have distinctive head patterns. <\/p>",
-    "images" : [
-      {
-        "title" : "Rufous-collared sparrow",
-        "img" : {
-          "height" : "2014",
-          "dataFileWidth" : "2718",
-          "dataFileHeight" : "2014",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/16\/TICO-TICO_%28Zonotrichia_capensis_%29_%282195772708%29.jpg\/300px-TICO-TICO_%28Zonotrichia_capensis_%29_%282195772708%29.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/16\/TICO-TICO_%28Zonotrichia_capensis_%29_%282195772708%29.jpg\/400px-TICO-TICO_%28Zonotrichia_capensis_%29_%282195772708%29.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/16\/TICO-TICO_%28Zonotrichia_capensis_%29_%282195772708%29.jpg\/200px-TICO-TICO_%28Zonotrichia_capensis_%29_%282195772708%29.jpg",
-          "width" : "2718"
-        },
-        "filehref" : "\/wiki\/File:TICO-TICO_(Zonotrichia_capensis_)_(2195772708).jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Thrush-tanager",
+    "family" : {
+      "name" : "Rhodinocichlidae",
+      "link" : "\/wiki\/Rhodinocichlidae"
+    },
+    "summaryHTML" : "<p>This species was historically placed in family Thraupidae. It was placed in its own family in 2017. <\/p>"
+  },
+  {
+    "summary" : "Until 2017, these species were considered part of the family Emberizidae. Most of the species are known as sparrows, but these birds are not closely related to the Old World sparrows which are in the family Passeridae. Many of these have distinctive head patterns.",
+    "images" : [
+      {
+        "title" : "Rufous-collared sparrow",
+        "filename" : "File:TICO-TICO_(Zonotrichia_capensis_)_(2195772708).jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Ashy-throated chlorospingus",
@@ -5884,21 +5600,22 @@
         "link" : "\/wiki\/Yellow-thighed_brushfinch"
       }
     ],
-    "category" : "New World sparrows",
-    "family" : {
-      "name" : "Passerellidae",
-      "link" : "\/wiki\/Passerellidae"
-    }
-  },
-  {
-    "summary" : "<p>Despite its name, this species is neither a wren nor a thrush, and is not closely related to either family. It was moved from the New World warblers (Parulidae) and placed in its own family in 2017. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "New World sparrows",
+    "family" : {
+      "name" : "Passerellidae",
+      "link" : "\/wiki\/Passerellidae"
+    },
+    "summaryHTML" : "<p>Until 2017, these species were considered part of the family Emberizidae. Most of the species are known as sparrows, but these birds are not closely related to the Old World sparrows which are in the family Passeridae. Many of these have distinctive head patterns. <\/p>"
+  },
+  {
+    "summary" : "Despite its name, this species is neither a wren nor a thrush, and is not closely related to either family. It was moved from the New World warblers (Parulidae) and placed in its own family in 2017.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "latin" : "Zeledonia coronata",
@@ -5907,21 +5624,22 @@
         "link" : "\/wiki\/Wrenthrush"
       }
     ],
-    "category" : "Wrenthrush",
-    "family" : {
-      "name" : "Zeledoniidae",
-      "link" : "\/wiki\/Zeledoniidae"
-    }
-  },
-  {
-    "summary" : "<p>This species was historically placed in the New World warblers but nonetheless most authorities were unsure if it belonged there. It was placed in its own family in 2017. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Wrenthrush",
+    "family" : {
+      "name" : "Zeledoniidae",
+      "link" : "\/wiki\/Zeledoniidae"
+    },
+    "summaryHTML" : "<p>Despite its name, this species is neither a wren nor a thrush, and is not closely related to either family. It was moved from the New World warblers (Parulidae) and placed in its own family in 2017. <\/p>"
+  },
+  {
+    "summary" : "This species was historically placed in the New World warblers but nonetheless most authorities were unsure if it belonged there. It was placed in its own family in 2017.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Yellow-breasted chat",
@@ -5929,44 +5647,29 @@
         "latin" : "Icteria virens"
       }
     ],
-    "category" : "Yellow-breasted chat",
-    "family" : {
-      "name" : "Icteriidae",
-      "link" : "\/wiki\/Icteriidae"
-    }
-  },
-  {
-    "summary" : "<p>The icterids are a group of small to medium-sized, often colorful, passerine birds restricted to the New World and include the <a href=\"\/wiki\/Grackle\" title=\"Grackle\">grackles<\/a>, <a href=\"\/wiki\/New_World_blackbird\" class=\"mw-redirect\" title=\"New World blackbird\">New World blackbirds<\/a>, and <a href=\"\/wiki\/New_World_oriole\" title=\"New World oriole\">New World orioles<\/a>. Most species have black as the predominant plumage color, often enlivened by yellow, orange, or red. <\/p>",
-    "images" : [
-      {
-        "title" : "Great-tailed grackle",
-        "img" : {
-          "height" : "1600",
-          "dataFileWidth" : "1600",
-          "dataFileHeight" : "1600",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3f\/Great-tailed_Grackle-27527.jpg\/300px-Great-tailed_Grackle-27527.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3f\/Great-tailed_Grackle-27527.jpg\/400px-Great-tailed_Grackle-27527.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3f\/Great-tailed_Grackle-27527.jpg\/200px-Great-tailed_Grackle-27527.jpg",
-          "width" : "1600"
-        },
-        "filehref" : "\/wiki\/File:Great-tailed_Grackle-27527.jpg"
-      },
-      {
-        "title" : "Montezuma oropendola",
-        "img" : {
-          "height" : "1968",
-          "dataFileWidth" : "2128",
-          "dataFileHeight" : "1968",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6a\/Montezuma_Oropendola.jpg\/300px-Montezuma_Oropendola.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6a\/Montezuma_Oropendola.jpg\/400px-Montezuma_Oropendola.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6a\/Montezuma_Oropendola.jpg\/200px-Montezuma_Oropendola.jpg",
-          "width" : "2128"
-        },
-        "filehref" : "\/wiki\/File:Montezuma_Oropendola.jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Yellow-breasted chat",
+    "family" : {
+      "name" : "Icteriidae",
+      "link" : "\/wiki\/Icteriidae"
+    },
+    "summaryHTML" : "<p>This species was historically placed in the New World warblers but nonetheless most authorities were unsure if it belonged there. It was placed in its own family in 2017. <\/p>"
+  },
+  {
+    "summary" : "The icterids are a group of small to medium-sized, often colorful, passerine birds restricted to the New World and include the grackles, New World blackbirds, and New World orioles. Most species have black as the predominant plumage color, often enlivened by yellow, orange, or red.",
+    "images" : [
+      {
+        "title" : "Great-tailed grackle",
+        "filename" : "File:Great-tailed_Grackle-27527.jpg"
+      },
+      {
+        "title" : "Montezuma oropendola",
+        "filename" : "File:Montezuma_Oropendola.jpg"
+      }
+    ],
     "birds" : [
       {
         "latin" : "Xanthocephalus xanthocephalus",
@@ -6092,56 +5795,33 @@
         "latin" : "Quiscalus nicaraguensis"
       }
     ],
-    "category" : "Troupials and allies",
-    "family" : {
-      "name" : "Icteridae",
-      "link" : "\/wiki\/Icteridae"
-    }
-  },
-  {
-    "summary" : "<p>The <a href=\"\/wiki\/New_World_warbler\" title=\"New World warbler\">New World warblers<\/a> are a group of small, often colorful, passerine birds restricted to the New World. Most are arboreal, but some are terrestrial. Most members of this family are insectivores. <\/p>",
-    "images" : [
-      {
-        "title" : "Tropical parula",
-        "img" : {
-          "height" : "1032",
-          "dataFileWidth" : "1521",
-          "dataFileHeight" : "1032",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/df\/Parula_pitiayumi.jpg\/300px-Parula_pitiayumi.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/df\/Parula_pitiayumi.jpg\/400px-Parula_pitiayumi.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/df\/Parula_pitiayumi.jpg\/200px-Parula_pitiayumi.jpg",
-          "width" : "1521"
-        },
-        "filehref" : "\/wiki\/File:Parula_pitiayumi.jpg"
-      },
-      {
-        "title" : "Bay-breasted warbler",
-        "img" : {
-          "height" : "1024",
-          "dataFileWidth" : "1536",
-          "dataFileHeight" : "1024",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/af\/Dendroica-castanea-001.jpg\/300px-Dendroica-castanea-001.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/af\/Dendroica-castanea-001.jpg\/400px-Dendroica-castanea-001.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/af\/Dendroica-castanea-001.jpg\/200px-Dendroica-castanea-001.jpg",
-          "width" : "1536"
-        },
-        "filehref" : "\/wiki\/File:Dendroica-castanea-001.jpg"
-      },
-      {
-        "title" : "Hooded warbler",
-        "img" : {
-          "height" : "544",
-          "dataFileWidth" : "818",
-          "dataFileHeight" : "544",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/54\/Wilsonia_citrina_%28Belize%29.jpg\/300px-Wilsonia_citrina_%28Belize%29.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/54\/Wilsonia_citrina_%28Belize%29.jpg\/400px-Wilsonia_citrina_%28Belize%29.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/54\/Wilsonia_citrina_%28Belize%29.jpg\/200px-Wilsonia_citrina_%28Belize%29.jpg",
-          "width" : "818"
-        },
-        "filehref" : "\/wiki\/File:Wilsonia_citrina_(Belize).jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Troupials and allies",
+    "family" : {
+      "name" : "Icteridae",
+      "link" : "\/wiki\/Icteridae"
+    },
+    "summaryHTML" : "<p>The icterids are a group of small to medium-sized, often colorful, passerine birds restricted to the New World and include the <a href=\"\/wiki\/Grackle\" title=\"Grackle\">grackles<\/a>, <a href=\"\/wiki\/New_World_blackbird\" class=\"mw-redirect\" title=\"New World blackbird\">New World blackbirds<\/a>, and <a href=\"\/wiki\/New_World_oriole\" title=\"New World oriole\">New World orioles<\/a>. Most species have black as the predominant plumage color, often enlivened by yellow, orange, or red. <\/p>"
+  },
+  {
+    "summary" : "The New World warblers are a group of small, often colorful, passerine birds restricted to the New World. Most are arboreal, but some are terrestrial. Most members of this family are insectivores.",
+    "images" : [
+      {
+        "title" : "Tropical parula",
+        "filename" : "File:Parula_pitiayumi.jpg"
+      },
+      {
+        "title" : "Bay-breasted warbler",
+        "filename" : "File:Dendroica-castanea-001.jpg"
+      },
+      {
+        "title" : "Hooded warbler",
+        "filename" : "File:Wilsonia_citrina_(Belize).jpg"
+      }
+    ],
     "birds" : [
       {
         "name" : "Ovenbird",
@@ -6399,21 +6079,22 @@
         "link" : "\/wiki\/Collared_redstart"
       }
     ],
-    "category" : "New World warblers",
-    "family" : {
-      "name" : "Parulidae",
-      "link" : "\/wiki\/Parulidae"
-    }
-  },
-  {
-    "summary" : "<p>The members of this small family were previously included in Thraupidae (\"true\" tanagers). They were placed in this new family in 2017. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "New World warblers",
+    "family" : {
+      "name" : "Parulidae",
+      "link" : "\/wiki\/Parulidae"
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/New_World_warbler\" title=\"New World warbler\">New World warblers<\/a> are a group of small, often colorful, passerine birds restricted to the New World. Most are arboreal, but some are terrestrial. Most members of this family are insectivores. <\/p>"
+  },
+  {
+    "summary" : "The members of this small family were previously included in Thraupidae (\"true\" tanagers). They were placed in this new family in 2017.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Dusky-faced tanager",
@@ -6421,21 +6102,22 @@
         "latin" : "Mitrospingus cassinii"
       }
     ],
-    "category" : "Microspingid tanagers",
-    "family" : {
-      "name" : "Mitrospingidae",
-      "link" : "\/wiki\/Mitrospingidae"
-    }
-  },
-  {
-    "summary" : "<p>The cardinals are a family of robust, seed-eating birds with strong bills. They are typically associated with open woodland. The sexes usually have distinct plumages. <\/p>",
-    "images" : [
-
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Microspingid tanagers",
+    "family" : {
+      "name" : "Mitrospingidae",
+      "link" : "\/wiki\/Mitrospingidae"
+    },
+    "summaryHTML" : "<p>The members of this small family were previously included in Thraupidae (\"true\" tanagers). They were placed in this new family in 2017. <\/p>"
+  },
+  {
+    "summary" : "The cardinals are a family of robust, seed-eating birds with strong bills. They are typically associated with open woodland. The sexes usually have distinct plumages.",
+    "images" : [
+
+    ],
     "birds" : [
       {
         "name" : "Hepatic tanager",
@@ -6540,104 +6222,49 @@
         "latin" : "Spiza americana"
       }
     ],
-    "category" : "Cardinals and allies",
-    "family" : {
-      "name" : "Cardinalidae",
-      "link" : "\/wiki\/Cardinalidae"
-    }
-  },
-  {
-    "summary" : "<p>The <a href=\"\/wiki\/Tanager\" title=\"Tanager\">tanagers<\/a> are a large group of small to medium-sized passerine birds restricted to the New World, mainly in the tropics. Many species are brightly colored. As a family they are omnivorous, but individual species specialize in eating fruits, seeds, insects, or other types of food. Most have short, rounded wings. <\/p>",
-    "images" : [
-      {
-        "title" : "Blue-gray tanager",
-        "img" : {
-          "height" : "1200",
-          "dataFileWidth" : "1920",
-          "dataFileHeight" : "1200",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0e\/Thraupis-episcopus-001.jpg\/375px-Thraupis-episcopus-001.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0e\/Thraupis-episcopus-001.jpg\/500px-Thraupis-episcopus-001.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0e\/Thraupis-episcopus-001.jpg\/250px-Thraupis-episcopus-001.jpg",
-          "width" : "1920"
-        },
-        "filehref" : "\/wiki\/File:Thraupis-episcopus-001.jpg"
-      },
-      {
-        "title" : "Crimson-collared tanager",
-        "img" : {
-          "height" : "1356",
-          "dataFileWidth" : "1607",
-          "dataFileHeight" : "1356",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e9\/Ramphocelus_sanguinolentus.jpg\/312px-Ramphocelus_sanguinolentus.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e9\/Ramphocelus_sanguinolentus.jpg\/415px-Ramphocelus_sanguinolentus.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e9\/Ramphocelus_sanguinolentus.jpg\/207px-Ramphocelus_sanguinolentus.jpg",
-          "width" : "1607"
-        },
-        "filehref" : "\/wiki\/File:Ramphocelus_sanguinolentus.jpg"
-      },
-      {
-        "title" : "Blue dacnis",
-        "img" : {
-          "height" : "974",
-          "dataFileWidth" : "1077",
-          "dataFileHeight" : "974",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f8\/Dacnis_cayana.jpg\/291px-Dacnis_cayana.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f8\/Dacnis_cayana.jpg\/387px-Dacnis_cayana.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f8\/Dacnis_cayana.jpg\/194px-Dacnis_cayana.jpg",
-          "width" : "1077"
-        },
-        "filehref" : "\/wiki\/File:Dacnis_cayana.jpg"
-      },
-      {
-        "title" : "Bananaquit",
-        "img" : {
-          "height" : "1500",
-          "dataFileWidth" : "1500",
-          "dataFileHeight" : "1500",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b5\/Bananaquits.jpg\/263px-Bananaquits.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b5\/Bananaquits.jpg\/350px-Bananaquits.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b5\/Bananaquits.jpg\/175px-Bananaquits.jpg",
-          "width" : "1500"
-        },
-        "filehref" : "\/wiki\/File:Bananaquits.jpg"
-      },
-      {
-        "title" : "Green honeycreeper",
-        "img" : {
-          "height" : "168",
-          "dataFileWidth" : "274",
-          "dataFileHeight" : "168",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/27\/Chlorophanes_spiza_-_male_on_feeder.jpg 1.5x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/27\/Chlorophanes_spiza_-_male_on_feeder.jpg\/250px-Chlorophanes_spiza_-_male_on_feeder.jpg",
-          "width" : "274"
-        },
-        "filehref" : "\/wiki\/File:Chlorophanes_spiza_-_male_on_feeder.jpg"
-      },
-      {
-        "title" : "Variable seedeater",
-        "img" : {
-          "height" : "1024",
-          "dataFileWidth" : "1024",
-          "dataFileHeight" : "1024",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/96\/Sporophila-corvina-002.jpg\/263px-Sporophila-corvina-002.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/96\/Sporophila-corvina-002.jpg\/350px-Sporophila-corvina-002.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/96\/Sporophila-corvina-002.jpg\/175px-Sporophila-corvina-002.jpg",
-          "width" : "1024"
-        },
-        "filehref" : "\/wiki\/File:Sporophila-corvina-002.jpg"
-      },
-      {
-        "title" : "Slaty flowerpiercer",
-        "img" : {
-          "height" : "1710",
-          "dataFileWidth" : "2212",
-          "dataFileHeight" : "1710",
-          "srcset" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/86\/Slaty_Flowerpiercer.jpg\/340px-Slaty_Flowerpiercer.jpg 1.5x, \/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/86\/Slaty_Flowerpiercer.jpg\/453px-Slaty_Flowerpiercer.jpg 2x",
-          "src" : "\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/86\/Slaty_Flowerpiercer.jpg\/227px-Slaty_Flowerpiercer.jpg",
-          "width" : "2212"
-        },
-        "filehref" : "\/wiki\/File:Slaty_Flowerpiercer.jpg"
-      }
-    ],
     "order" : {
       "name" : "Passeriformes",
       "link" : "\/wiki\/Passeriformes"
     },
+    "category" : "Cardinals and allies",
+    "family" : {
+      "name" : "Cardinalidae",
+      "link" : "\/wiki\/Cardinalidae"
+    },
+    "summaryHTML" : "<p>The cardinals are a family of robust, seed-eating birds with strong bills. They are typically associated with open woodland. The sexes usually have distinct plumages. <\/p>"
+  },
+  {
+    "summary" : "The tanagers are a large group of small to medium-sized passerine birds restricted to the New World, mainly in the tropics. Many species are brightly colored. As a family they are omnivorous, but individual species specialize in eating fruits, seeds, insects, or other types of food. Most have short, rounded wings.",
+    "images" : [
+      {
+        "title" : "Blue-gray tanager",
+        "filename" : "File:Thraupis-episcopus-001.jpg"
+      },
+      {
+        "title" : "Crimson-collared tanager",
+        "filename" : "File:Ramphocelus_sanguinolentus.jpg"
+      },
+      {
+        "title" : "Blue dacnis",
+        "filename" : "File:Dacnis_cayana.jpg"
+      },
+      {
+        "title" : "Bananaquit",
+        "filename" : "File:Bananaquits.jpg"
+      },
+      {
+        "title" : "Green honeycreeper",
+        "filename" : "File:Chlorophanes_spiza_-_male_on_feeder.jpg"
+      },
+      {
+        "title" : "Variable seedeater",
+        "filename" : "File:Sporophila-corvina-002.jpg"
+      },
+      {
+        "title" : "Slaty flowerpiercer",
+        "filename" : "File:Slaty_Flowerpiercer.jpg"
+      }
+    ],
     "birds" : [
       {
         "latin" : "Bangsia arcaei",
@@ -6895,10 +6522,15 @@
         "latin" : "Saltator striatipectus"
       }
     ],
+    "order" : {
+      "name" : "Passeriformes",
+      "link" : "\/wiki\/Passeriformes"
+    },
     "category" : "Tanagers and allies",
     "family" : {
       "name" : "Thraupidae",
       "link" : "\/wiki\/Thraupidae"
-    }
+    },
+    "summaryHTML" : "<p>The <a href=\"\/wiki\/Tanager\" title=\"Tanager\">tanagers<\/a> are a large group of small to medium-sized passerine birds restricted to the New World, mainly in the tropics. Many species are brightly colored. As a family they are omnivorous, but individual species specialize in eating fruits, seeds, insects, or other types of food. Most have short, rounded wings. <\/p>"
   }
 ]
