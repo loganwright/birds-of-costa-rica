@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -13,6 +13,15 @@
 		8067F19F25CBE0FA00F0211E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8067F19E25CBE0FA00F0211E /* Preview Assets.xcassets */; };
 		8067F1AA25CBE0FA00F0211E /* BirdsOfCostaRicaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8067F1A925CBE0FA00F0211E /* BirdsOfCostaRicaTests.swift */; };
 		8067F1B525CBE0FA00F0211E /* BirdsOfCostaRicaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8067F1B425CBE0FA00F0211E /* BirdsOfCostaRicaUITests.swift */; };
+		8067F1C625CBE12400F0211E /* bird-groups.json in Resources */ = {isa = PBXBuildFile; fileRef = 8067F1C525CBE12400F0211E /* bird-groups.json */; };
+		8067F1CC25CBE14000F0211E /* bird-details.json in Resources */ = {isa = PBXBuildFile; fileRef = 8067F1CA25CBE14000F0211E /* bird-details.json */; };
+		8067F1CD25CBE14000F0211E /* image-meta.json in Resources */ = {isa = PBXBuildFile; fileRef = 8067F1CB25CBE14000F0211E /* image-meta.json */; };
+		8067F1D225CBE16D00F0211E /* BirdGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8067F1D125CBE16D00F0211E /* BirdGroups.swift */; };
+		8067F1DB25CBE18900F0211E /* BirdDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8067F1DA25CBE18900F0211E /* BirdDetails.swift */; };
+		8067F1E325CBE19D00F0211E /* BirdImageMeta.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8067F1E225CBE19D00F0211E /* BirdImageMeta.swift */; };
+		8067F1E925CBE1D300F0211E /* Commons in Frameworks */ = {isa = PBXBuildFile; productRef = 8067F1E825CBE1D300F0211E /* Commons */; };
+		8067F1EE25CBE1DF00F0211E /* ModelLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8067F1ED25CBE1DF00F0211E /* ModelLoader.swift */; };
+		8067F1F725CBE3DD00F0211E /* Endpoints in Frameworks */ = {isa = PBXBuildFile; productRef = 8067F1F625CBE3DD00F0211E /* Endpoints */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +54,13 @@
 		8067F1B025CBE0FA00F0211E /* BirdsOfCostaRicaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BirdsOfCostaRicaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8067F1B425CBE0FA00F0211E /* BirdsOfCostaRicaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdsOfCostaRicaUITests.swift; sourceTree = "<group>"; };
 		8067F1B625CBE0FA00F0211E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8067F1C525CBE12400F0211E /* bird-groups.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "bird-groups.json"; sourceTree = "<group>"; };
+		8067F1CA25CBE14000F0211E /* bird-details.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "bird-details.json"; sourceTree = "<group>"; };
+		8067F1CB25CBE14000F0211E /* image-meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "image-meta.json"; sourceTree = "<group>"; };
+		8067F1D125CBE16D00F0211E /* BirdGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdGroups.swift; sourceTree = "<group>"; };
+		8067F1DA25CBE18900F0211E /* BirdDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdDetails.swift; sourceTree = "<group>"; };
+		8067F1E225CBE19D00F0211E /* BirdImageMeta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdImageMeta.swift; sourceTree = "<group>"; };
+		8067F1ED25CBE1DF00F0211E /* ModelLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +68,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8067F1E925CBE1D300F0211E /* Commons in Frameworks */,
+				8067F1F725CBE3DD00F0211E /* Endpoints in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,10 +93,14 @@
 		8067F18B25CBE0F800F0211E = {
 			isa = PBXGroup;
 			children = (
+				8067F1CA25CBE14000F0211E /* bird-details.json */,
+				8067F1CB25CBE14000F0211E /* image-meta.json */,
+				8067F1C525CBE12400F0211E /* bird-groups.json */,
 				8067F19625CBE0F800F0211E /* BirdsOfCostaRica */,
 				8067F1A825CBE0FA00F0211E /* BirdsOfCostaRicaTests */,
 				8067F1B325CBE0FA00F0211E /* BirdsOfCostaRicaUITests */,
 				8067F19525CBE0F800F0211E /* Products */,
+				8067F1F525CBE3DD00F0211E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -95,6 +117,7 @@
 		8067F19625CBE0F800F0211E /* BirdsOfCostaRica */ = {
 			isa = PBXGroup;
 			children = (
+				8067F1D925CBE17300F0211E /* Models */,
 				8067F19725CBE0F800F0211E /* BirdsOfCostaRicaApp.swift */,
 				8067F19925CBE0F800F0211E /* ContentView.swift */,
 				8067F19B25CBE0FA00F0211E /* Assets.xcassets */,
@@ -130,6 +153,24 @@
 			path = BirdsOfCostaRicaUITests;
 			sourceTree = "<group>";
 		};
+		8067F1D925CBE17300F0211E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				8067F1D125CBE16D00F0211E /* BirdGroups.swift */,
+				8067F1DA25CBE18900F0211E /* BirdDetails.swift */,
+				8067F1E225CBE19D00F0211E /* BirdImageMeta.swift */,
+				8067F1ED25CBE1DF00F0211E /* ModelLoader.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		8067F1F525CBE3DD00F0211E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -146,6 +187,10 @@
 			dependencies = (
 			);
 			name = BirdsOfCostaRica;
+			packageProductDependencies = (
+				8067F1E825CBE1D300F0211E /* Commons */,
+				8067F1F625CBE3DD00F0211E /* Endpoints */,
+			);
 			productName = BirdsOfCostaRica;
 			productReference = 8067F19425CBE0F800F0211E /* BirdsOfCostaRica.app */;
 			productType = "com.apple.product-type.application";
@@ -217,6 +262,9 @@
 				Base,
 			);
 			mainGroup = 8067F18B25CBE0F800F0211E;
+			packageReferences = (
+				8067F1E725CBE1D300F0211E /* XCRemoteSwiftPackageReference "commons" */,
+			);
 			productRefGroup = 8067F19525CBE0F800F0211E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -233,7 +281,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8067F1C625CBE12400F0211E /* bird-groups.json in Resources */,
 				8067F19F25CBE0FA00F0211E /* Preview Assets.xcassets in Resources */,
+				8067F1CC25CBE14000F0211E /* bird-details.json in Resources */,
+				8067F1CD25CBE14000F0211E /* image-meta.json in Resources */,
 				8067F19C25CBE0FA00F0211E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,8 +310,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8067F1EE25CBE1DF00F0211E /* ModelLoader.swift in Sources */,
+				8067F1D225CBE16D00F0211E /* BirdGroups.swift in Sources */,
+				8067F1E325CBE19D00F0211E /* BirdImageMeta.swift in Sources */,
 				8067F19A25CBE0F800F0211E /* ContentView.swift in Sources */,
 				8067F19825CBE0F800F0211E /* BirdsOfCostaRicaApp.swift in Sources */,
+				8067F1DB25CBE18900F0211E /* BirdDetails.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -580,6 +635,30 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		8067F1E725CBE1D300F0211E /* XCRemoteSwiftPackageReference "commons" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/loganwright/commons.git";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8067F1E825CBE1D300F0211E /* Commons */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8067F1E725CBE1D300F0211E /* XCRemoteSwiftPackageReference "commons" */;
+			productName = Commons;
+		};
+		8067F1F625CBE3DD00F0211E /* Endpoints */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8067F1E725CBE1D300F0211E /* XCRemoteSwiftPackageReference "commons" */;
+			productName = Endpoints;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 8067F18C25CBE0F800F0211E /* Project object */;
 }

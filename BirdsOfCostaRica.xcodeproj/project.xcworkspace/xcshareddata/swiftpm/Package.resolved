@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Commons",
+        "repositoryURL": "https://github.com/loganwright/commons.git",
+        "state": {
+          "branch": "main",
+          "revision": "3efa31b24f5baef9a6da9f06f6f21717afa02c21",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
