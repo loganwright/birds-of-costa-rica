@@ -203,7 +203,8 @@ struct ImageList: View {
             List(images) { imageUrl in
                 AsyncImage(imageUrl: imageUrl)
                     .frame(alignment: .center)
-            }.frame(alignment: .center)
+            }
+            .frame(minHeight: 120, alignment: .center)
         } else {
             Text("No images for \(bird.name).")
         }
