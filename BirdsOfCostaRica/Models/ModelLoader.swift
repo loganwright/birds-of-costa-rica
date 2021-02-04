@@ -6,6 +6,14 @@ let birdGroupsImageInfo: [ImageMeta] = load(name: "bird-groups-image-meta")
 let birdDetails: [BirdDetails] = load(name: "bird-details")
 let imageInfo: [ImageMeta] = load(name: "image-meta")
 
+let birdDetailsImageInfoExclude: [String] = [
+    "File:Status iucn3.1 LC.svg",
+    "File:OOjs UI icon edit-ltr-progressive.svg"
+]
+let birdDetailsImageInfoPreFiltered = imageInfo.filter { !birdDetailsImageInfoExclude.contains($0.filename)
+}
+
+
 func load<T: Codable>(name: String, as: T.Type = T.self) -> T {
     let filePath  = Bundle.main.path(
         forResource: name,

@@ -14,9 +14,73 @@
             filePath = "BirdsOfCostaRica/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "66"
-            endingLineNumber = "66"
-            landmarkName = "images"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "firstThreeImages"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6911FCF9-3D43-48C2-A81B-3A9EC189053A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BirdsOfCostaRica/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "firstThreeImages"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6911FCF9-3D43-48C2-A81B-3A9EC189053A - e02be29f1e60166e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BirdsOfCostaRica.BirdGroup.Bird.firstThreeImages.getter : Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "BirdsOfCostaRica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loganwright/Desktop/BirdsOfCostaRica/BirdsOfCostaRica/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1275">
+               </Location>
+               <Location
+                  uuid = "6911FCF9-3D43-48C2-A81B-3A9EC189053A - 8603d195d27d4a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (BirdsOfCostaRica.ImageMeta) -&gt; Swift.Optional&lt;Swift.String&gt; in BirdsOfCostaRica.BirdGroup.Bird.firstThreeImages.getter : Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "BirdsOfCostaRica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loganwright/Desktop/BirdsOfCostaRica/BirdsOfCostaRica/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F73A9A49-C883-486B-9326-A2920B65EB20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BirdsOfCostaRica/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "firstThreeImages"
             landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>

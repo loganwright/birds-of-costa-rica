@@ -60,9 +60,37 @@ extension BirdGroup.Bird {
 }
 
 extension BirdGroup.Bird {
-    var images: [String]? {
+    var firstThreeImages: [String]? {
         guard let files = details?.imageFiles else { return nil }
-        return imageInfo.filter { files.contains($0.filename) } .collectFirst(3).compactMap { meta in
+        var unique = [String]()
+        for file in files where !unique.contains(file) {
+            unique.append(file)
+        }
+
+        let three: [String]
+        if unique.count > 3 {
+            three = unique.collectFirst(3)
+        } else {
+            three = unique
+        }
+
+
+        var found: [ImageMeta] = []
+        for next in birdDetailsImageInfoPreFiltered where found.count < 3 {
+            guard three.contains(next.filename), !found.contains(where: { $0.filename == next.filename }) else { continue }
+            found.append(next)
+        }
+//        let found = birdDetailsImageInfoPreFiltered.filter { three.contains($0.filename) }
+
+//        let three: [ImageMeta]
+//        if all.count > 3 {
+//            three = all.collectFirst(3)
+//        } else {
+//            three = all
+//        }
+        print(found.map(\.filename))
+        print()
+        return found.compactMap { meta in
             meta.info.responsiveUrls?.values.first
         }
     }
@@ -93,7 +121,7 @@ struct BirdsView: View {
                 }
                 Spacer()
 
-                if let images = bird.images {
+                if let images = bird.firstThreeImages {
                     ScrollView(.horizontal, showsIndicators: false, content: {
                         HStack {
                             ForEach(images) { url  in
@@ -135,7 +163,7 @@ struct ContentView: View {
                         }
 
 
-//                        Text(group.summary).font(.system(size: 14, weight: .regular, design: .default))
+                        Text(group.summary).font(.system(size: 14, weight: .regular, design: .default))
                     }
                     .clipped()
                 })
@@ -153,12 +181,6 @@ extension BirdGroup.File {
         birdGroupsImageInfo.first { $0.filename == filename } .flatMap { img in
             img.info.responsiveUrls?.values.first
         }!
-
-//        guard let files = details?.imageFiles else { return nil }
-//        return imageInfo.filter { files.contains($0.filename) } .collectFirst(3).compactMap { meta in
-//            meta.info.responsiveUrls?.values.first
-//        }
-//        "https:" + img.src
     }
 }
 
