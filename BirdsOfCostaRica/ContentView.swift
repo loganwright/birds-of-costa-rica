@@ -13,13 +13,23 @@ let cache = NSCache<NSString, UIImage>()
 struct AsyncImage: View {
     let imageUrl: String
     @State private var result: Result<UIImage, Error>? = nil
+    @State private var present: Bool = false
+
     init(imageUrl: String) {
         self.imageUrl = imageUrl
     }
 
     var body: some View {
         if let image = result?.value {
-            Image(uiImage: image).resizable().scaledToFit()
+            Image(uiImage: image)
+                .resizable().scaledToFit()
+                .sheet(isPresented: $present) {
+                    Image(uiImage: image).resizable().scaledToFit()
+                }
+                .onTapGesture {
+                    self.present = true
+                }
+
         } else if let error = result?.error {
             Text(error.display)
         } else {
@@ -109,15 +119,18 @@ struct BirdsView: View {
     var body: some View {
         List(birds, id: \.name) { bird in
             VStack(alignment: .leading) {
-                Text(bird.name).font(.system(size: 18, weight: .bold, design: .monospaced))
-                Text(bird.latin).font(.system(size: 18, weight: .light, design: .monospaced))
+                Text(bird.name).font(.system(size: 16, weight: .bold, design: .monospaced))
+                Text(bird.latin).font(.system(size: 16, weight: .light, design: .monospaced))
+
                 if let tag = bird.tag {
-                    Text(tag.rawValue)
+                    Text(tag.rawValue.capitalized)
+                        .font(.system(size: 16, weight: .light, design: .monospaced))
+                        .italic()
                 }
 
                 Spacer()
                 if let summary = bird.details?.summary {
-                    Text(summary).font(.system(size: 14, weight: .regular, design: .default))
+                    Text(summary).font(.system(size: 16, weight: .regular, design: .default))
                 }
                 Spacer()
 
@@ -136,37 +149,80 @@ struct BirdsView: View {
     }
 }
 
+struct CircleLabel: View {
+    let text: String
+    var body: some View {
+//        Text(" " + text + " ")
+//            .font(.system(size: 14, weight: .bold, design: .monospaced))
+//            .foregroundColor(.white)
+//            .background(Circle().fill(Color.black).frame(width: 18, height: 18))
+        Text(text)
+            .font(.system(size: 14, weight: .bold, design: .monospaced))
+            .foregroundColor(.white)
+            .frame(width: 22, height: 22, alignment: .center)
+//            .padding()
+            .background(
+                Circle().fill(Color.black)
+//                .padding(6)
+            )
+    }
+}
+
 struct ContentView: View {
     let groups = birdGroups
     var body: some View {
         List(groups, id: \.category) { group in
+            ZStack {
+            VStack(alignment: .leading, spacing: 8) {
+                HStack {
+//                            CircleLabel(text: group.birds.count.description)
+                    Text(group.category)
+                        .font(.system(size: 18, weight: .bold, design: .monospaced))
+//                            Spacer()
+//                            CircleLabel(text: group.birds.count.description)
+                }
+                HStack {
+
+                    VStack(alignment: .leading) {
+                        HStack {
+                            Text("Order: ")
+                                .font(.system(size: 14, weight: .bold, design: .monospaced))
+                            Text(group.order.name)
+                                .font(.system(size: 14, weight: .thin, design: .monospaced))
+
+                        }
+                        HStack {
+                            Text("Family: ")
+                                .font(.system(size: 14, weight: .bold, design: .monospaced))
+                            Text(group.family.name)
+                                .font(.system(size: 14, weight: .thin, design: .monospaced))
+                        }
+                    }
+                                                Spacer()
+                                                CircleLabel(text: group.birds.count.description)
+                }
+
+//                        CircleLabel(text: group.birds.count.description)
+
+                if !group.images.isEmpty {
+                    ScrollView(.horizontal, showsIndicators: false, content: {
+                        HStack {
+                            ForEach(group.images, id: \.filename) { file  in
+                                AsyncImage(imageUrl: file.imageUrl).frame(height: 88)
+                            }
+                        }
+                    })
+                    .frame(height: 100)
+                }
+                Text(group.summary).font(.system(size: 14, weight: .thin, design: .monospaced))
+
+            }
             NavigationLink(
                 destination: BirdsView(birds: group.birds),
-                label: {
-                    VStack {
-                        HStack {
-                            Text(group.category)
-                                .font(.system(size: 18, weight: .bold, design: .monospaced))
-                            Spacer()
-                            Text(group.birds.count.description)
-                        }
-//                        LabelView(html: group.summary)
-                        if !group.images.isEmpty {
-                            ScrollView(.horizontal, showsIndicators: false, content: {
-                                HStack {
-                                    ForEach(group.images, id: \.filename) { file  in
-                                        AsyncImage(imageUrl: file.imageUrl).frame(height: 88)
-                                    }
-                                }
-                            })
-                            .frame(height: 100)
-                        }
-
-
-                        Text(group.summary).font(.system(size: 14, weight: .regular, design: .default))
-                    }
-                    .clipped()
-                })
+                label: { EmptyView()
+                }).hidden()
+//                .buttonStyle(PlainButtonStyle())
+            }
         }
         .navigationBarTitle(Text("Bird Groups"), displayMode: .inline)
     }

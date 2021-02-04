@@ -7,9 +7,11 @@ let birdDetails: [BirdDetails] = load(name: "bird-details")
 let imageInfo: [ImageMeta] = load(name: "image-meta")
 
 let birdDetailsImageInfoExclude: [String] = [
-    "File:Status iucn3.1 LC.svg",
-    "File:OOjs UI icon edit-ltr-progressive.svg"
+    "File:OOjs UI icon edit-ltr-progressive.svg",
+    "File:Folder Hexagonal Icon.svg",
+    "File:Cscr-featured.svg"
 ]
+
 let birdDetailsImageInfoPreFiltered = imageInfo.filter { !birdDetailsImageInfoExclude.contains($0.filename)
 }
 
