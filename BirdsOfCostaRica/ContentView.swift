@@ -22,14 +22,16 @@ struct AsyncImage: View {
     var body: some View {
         if let image = result?.value {
             Image(uiImage: image)
-                .resizable().scaledToFit()
+                .resizable()
+                .scaledToFit()
                 .sheet(isPresented: $present) {
-                    Image(uiImage: image).resizable().scaledToFit()
+                    Image(uiImage: image)
+                        .resizable()
+                        .scaledToFit()
                 }
                 .onTapGesture {
                     self.present = true
                 }
-
         } else if let error = result?.error {
             Text(error.display)
         } else {
@@ -70,6 +72,24 @@ extension BirdGroup.Bird {
 }
 
 extension BirdGroup.Bird {
+    var allImages: [String]? {
+        guard let files = details?.imageFiles else { return nil }
+        var unique = [String]()
+        for file in files where !unique.contains(file) {
+            unique.append(file)
+        }
+
+        var found: [ImageMeta] = []
+        for next in birdDetailsImageInfoPreFiltered {
+            guard unique.contains(next.filename), !found.contains(where: { $0.filename == next.filename }) else { continue }
+            found.append(next)
+        }
+
+        return found.compactMap { meta in
+            meta.info.responsiveUrls?.values.first
+        }
+    }
+
     var firstThreeImages: [String]? {
         guard let files = details?.imageFiles else { return nil }
         var unique = [String]()
@@ -118,6 +138,7 @@ struct BirdsView: View {
 
     var body: some View {
         List(birds, id: \.name) { bird in
+            ZStack {
             VStack(alignment: .leading) {
                 Text(bird.name).font(.system(size: 16, weight: .bold, design: .monospaced))
                 Text(bird.latin).font(.system(size: 16, weight: .light, design: .monospaced))
@@ -145,6 +166,12 @@ struct BirdsView: View {
                     .frame(height: 100)
                 }
             }
+                NavigationLink(
+                    destination: ImageList(bird: bird),
+                    label: { EmptyView()
+                    }).hidden()
+    //                .buttonStyle(PlainButtonStyle())
+            }
         }
     }
 }
@@ -165,6 +192,21 @@ struct CircleLabel: View {
                 Circle().fill(Color.black)
 //                .padding(6)
             )
+    }
+}
+
+struct ImageList: View {
+    let bird: BirdGroup.Bird
+
+    var body: some View {
+        if let images = bird.allImages {
+            List(images) { imageUrl in
+                AsyncImage(imageUrl: imageUrl)
+                    .frame(alignment: .center)
+            }.frame(alignment: .center)
+        } else {
+            Text("No images for \(bird.name).")
+        }
     }
 }
 

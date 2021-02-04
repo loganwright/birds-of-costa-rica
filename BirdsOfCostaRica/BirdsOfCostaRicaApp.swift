@@ -15,6 +15,7 @@ struct BirdsOfCostaRicaApp: App {
                 ContentView()
             }
             .navigationBarTitle(Text("Bird Groups"), displayMode: .inline)
+            .accentColor( .black)
         }
     }
 }
