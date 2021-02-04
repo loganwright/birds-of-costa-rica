@@ -1,3 +1,5 @@
+import Foundation
+
 struct BirdGroup: Codable {
     struct Order: Codable {
         let name: String
@@ -69,4 +71,10 @@ struct BirdGroup: Codable {
     let summary: String
     let images: [File]
     let birds: [Bird]
+}
+
+extension BirdGroup.Bird {
+    var title: String {
+        name.components(separatedBy: " ").joined(separator: "_")
+    }
 }

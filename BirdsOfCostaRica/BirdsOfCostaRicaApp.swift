@@ -11,7 +11,10 @@ import SwiftUI
 struct BirdsOfCostaRicaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                ContentView()
+            }
+            .navigationBarTitle(Text("Bird Groups"), displayMode: .inline)
         }
     }
 }
